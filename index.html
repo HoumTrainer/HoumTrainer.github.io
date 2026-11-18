@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>HoumTrainer — каталог упражнений</title>
+<style>
+  :root { --bg:#faf7f2; --card:#fff; --ink:#24211d; --muted:#6d665d; --line:#e6dfd4; --accent:#d9603b; }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg:#1b1916; --card:#25221e; --ink:#eee8de; --muted:#a59d91; --line:#3a352f; --accent:#f08a63; }
+  }
+  * { box-sizing: border-box; }
+  body { margin:0; background:var(--bg); color:var(--ink); font:16px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  header { padding:28px 16px 12px; max-width:980px; margin:0 auto; }
+  h1 { margin:0 0 4px; font-size:28px; }
+  .sub { color:var(--muted); margin:0; }
+  main { max-width:980px; margin:0 auto; padding:0 16px 48px; }
+  .tabs { display:flex; gap:8px; margin:16px 0; }
+  .tabs button { border:1px solid var(--line); background:var(--card); color:var(--ink); padding:8px 16px; border-radius:999px; font:inherit; cursor:pointer; }
+  .tabs button.on { background:var(--accent); border-color:var(--accent); color:#fff; }
+  input[type=search] { width:100%; padding:10px 14px; border:1px solid var(--line); border-radius:10px; background:var(--card); color:var(--ink); font:inherit; margin-bottom:16px; }
+  .grid { display:grid; grid-template-columns:repeat(auto-fill, minmax(260px, 1fr)); gap:14px; }
+  .card { background:var(--card); border:1px solid var(--line); border-radius:14px; overflow:hidden; }
+  .card video { width:100%; display:block; background:#000; aspect-ratio: 16/9; object-fit: contain; }
+  .card .body { padding:12px 14px; }
+  .card h3 { margin:0 0 4px; font-size:18px; }
+  .meta { color:var(--muted); font-size:14px; margin:0 0 6px; }
+  .desc { font-size:14px; margin:0; white-space:pre-line; }
+  details summary { cursor:pointer; color:var(--accent); font-size:14px; margin-top:6px; }
+  .wk { background:var(--card); border:1px solid var(--line); border-radius:14px; padding:14px 16px; margin-bottom:12px; }
+  .wk ol { margin:8px 0 0; padding-left:22px; }
+  .note { color:var(--muted); font-size:14px; }
+</style>
+</head>
+<body>
+<header>
+  <h1>HoumTrainer</h1>
+  <p class="sub">Каталог упражнений и комплексов для домашних тренировок. Скачивать их удобнее прямо в программе: раздел «Каталог».</p>
+</header>
+<main>
+  <div class="tabs">
+    <button id="tEx" class="on">Упражнения</button>
+    <button id="tWk">Комплексы</button>
+  </div>
+  <input id="q" type="search" placeholder="Поиск: номер или слово из описания">
+  <p id="status" class="note">Загрузка каталога…</p>
+  <div id="ex" class="grid"></div>
+  <div id="wk" hidden></div>
+</main>
+<script>
+const CLIPS = "klipy/";
+let cat = null;
+const $ = id => document.getElementById(id);
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const meta = e => `${e.reps} × ${e.sets} · ритм ${String(e.repSeconds).replace(".", ",")} с · пауза ${e.pauseSeconds} с`;
+
+function render() {
+  if (!cat) return;
+  const q = $("q").value.trim().toLowerCase();
+  const ex = cat.exercises.filter(e => !q || (e.title + " " + e.description).toLowerCase().includes(q));
+  $("ex").innerHTML = ex.map(e => `
+    <div class="card">
+      ${e.clip ? `<video src="${CLIPS + encodeURIComponent(e.clip)}" preload="none" controls playsinline loop muted></video>` : ""}
+      <div class="body">
+        <h3>${esc(e.title)}</h3>
+        <p class="meta">${meta(e)}${e.muscleGroups.length ? " · " + esc(e.muscleGroups.join(", ")) : ""}</p>
+        ${e.description ? `<details><summary>Как выполнять</summary><p class="desc">${esc(e.description)}</p></details>` : ""}
+      </div>
+    </div>`).join("");
+  const byUid = Object.fromEntries(cat.exercises.map(e => [e.uid, e]));
+  const wk = cat.workouts.filter(w => !q || (w.title + " " + w.description).toLowerCase().includes(q));
+  $("wk").innerHTML = wk.map(w => `
+    <div class="wk">
+      <h3>${esc(w.title)}</h3>
+      ${w.description ? `<p class="desc">${esc(w.description)}</p>` : ""}
+      <ol>${w.items.map(i => {
+        const e = byUid[i.exercise];
+        return `<li>${e ? esc(e.title) + " — " + esc((e.description || "").split(/[.!?]/)[0]) : "?"}</li>`;
+      }).join("")}</ol>
+    </div>`).join("");
+  $("status").textContent = `Упражнений: ${cat.exercises.length}, комплексов: ${cat.workouts.length}. Обновлено: ${new Date(cat.generated).toLocaleDateString("ru-RU")}.`;
+}
+
+function tab(isEx) {
+  $("tEx").classList.toggle("on", isEx); $("tWk").classList.toggle("on", !isEx);
+  $("ex").hidden = !isEx; $("wk").hidden = isEx;
+}
+$("tEx").onclick = () => tab(true);
+$("tWk").onclick = () => tab(false);
+$("q").oninput = render;
+
+fetch("catalog.json", { cache: "no-cache" })
+  .then(r => r.json())
+  .then(j => { cat = j; render(); })
+  .catch(() => { $("status").textContent = "Каталог пока не опубликован."; });
+</script>
+</body>
+</html>

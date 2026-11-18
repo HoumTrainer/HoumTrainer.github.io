@@ -1,0 +1,3489 @@
+{
+ "format": 1,
+ "generated": "2026-11-18T16:40:42Z",
+ "appVersion": 1,
+ "exercises": [
+  {
+   "uid": "30c9fa5f-9906-3963-8c18-307f27c83c75",
+   "revision": 1,
+   "minApp": 1,
+   "title": "001",
+   "description": "Круговые движения плечами вперед и назад.Следим за своей осанкой и не задерживаем дыхание.",
+   "reps": 10,
+   "sets": 1,
+   "pauseSeconds": 0,
+   "repSeconds": 2,
+   "differentSides": true,
+   "differentLimbs": false,
+   "muscleGroups": [
+    "Плечи"
+   ],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [
+    {
+     "bodyPart": "Шея",
+     "note": null
+    },
+    {
+     "bodyPart": "Плечи",
+     "note": null
+    }
+   ],
+   "clip": "vrashchenie_plechami.mp4",
+   "clipBytes": 268250,
+   "clipMd5": "70cfefcf5cf1b68c6444c4e6d72b9626"
+  },
+  {
+   "uid": "d7f6822d-c5b0-3928-97d7-1780e4785517",
+   "revision": 1,
+   "minApp": 1,
+   "title": "002",
+   "description": "Выполняем  поочередное вращение плечами. Сначало делаем  вперед а затем назад.",
+   "reps": 10,
+   "sets": 1,
+   "pauseSeconds": 0,
+   "repSeconds": 2.5,
+   "differentSides": true,
+   "differentLimbs": false,
+   "muscleGroups": [
+    "Плечи"
+   ],
+   "ageCategories": [
+    {
+     "name": "Все",
+     "minAge": 0,
+     "maxAge": null
+    }
+   ],
+   "timesOfDay": [
+    {
+     "name": "Утро",
+     "sortOrder": 1
+    }
+   ],
+   "pain": [
+    {
+     "bodyPart": "Шея",
+     "note": null
+    },
+    {
+     "bodyPart": "Плечи",
+     "note": null
+    },
+    {
+     "bodyPart": "Поясница",
+     "note": null
+    }
+   ],
+   "clip": "klip_2_plechi_poocheredno.mp4",
+   "clipBytes": 363565,
+   "clipMd5": "fa86f94fe6910cacda16f17ef6d459d5"
+  },
+  {
+   "uid": "eb5c8b70-888d-3aff-9b43-457da269ff47",
+   "revision": 1,
+   "minApp": 1,
+   "title": "003",
+   "description": "двигаем плечами вперед до упора, затем назад сводим лопатки",
+   "reps": 20,
+   "sets": 1,
+   "pauseSeconds": 0,
+   "repSeconds": 3,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [
+    "Плечи",
+    "Спина"
+   ],
+   "ageCategories": [
+    {
+     "name": "Все",
+     "minAge": 0,
+     "maxAge": null
+    }
+   ],
+   "timesOfDay": [
+    {
+     "name": "Утро",
+     "sortOrder": 1
+    }
+   ],
+   "pain": [
+    {
+     "bodyPart": "Плечи",
+     "note": null
+    },
+    {
+     "bodyPart": "Грудной отдел спины",
+     "note": null
+    },
+    {
+     "bodyPart": "Поясница",
+     "note": null
+    }
+   ],
+   "clip": "klip_3_plechi_vpered_nazad.mp4",
+   "clipBytes": 166960,
+   "clipMd5": "0a2b21e317e5ade93691c8e833e5e805"
+  },
+  {
+   "uid": "ed822140-ec94-3768-9844-77a5a2ac0c78",
+   "revision": 1,
+   "minApp": 1,
+   "title": "004",
+   "description": "Сгибаем руки в локтях, кисти на плечах. Сводим логти сначала вперед затем разводим назад до упора. Лопатки соединяем вместе.",
+   "reps": 20,
+   "sets": 1,
+   "pauseSeconds": 0,
+   "repSeconds": 3,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [
+    "Плечи",
+    "Спина"
+   ],
+   "ageCategories": [
+    {
+     "name": "Все",
+     "minAge": 0,
+     "maxAge": null
+    }
+   ],
+   "timesOfDay": [
+    {
+     "name": "Утро",
+     "sortOrder": 1
+    }
+   ],
+   "pain": [
+    {
+     "bodyPart": "Плечи",
+     "note": null
+    },
+    {
+     "bodyPart": "Поясница",
+     "note": null
+    }
+   ],
+   "clip": "klip_4_lokti_svedenie_2.mp4",
+   "clipBytes": 195003,
+   "clipMd5": "674bd0dc69bab3f35c3633db7f0174fd"
+  },
+  {
+   "uid": "3ce79cd2-f1f8-318e-b47b-578e04899762",
+   "revision": 1,
+   "minApp": 1,
+   "title": "005",
+   "description": "Руки сгибаем в локтях. поднимаем вверх затем опускаем вниз.",
+   "reps": 20,
+   "sets": 1,
+   "pauseSeconds": 0,
+   "repSeconds": 2,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [
+    "Плечи",
+    "Спина"
+   ],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [
+    {
+     "bodyPart": "Плечи",
+     "note": null
+    },
+    {
+     "bodyPart": "Поясница",
+     "note": null
+    }
+   ],
+   "clip": "klip_5_lokti_vverh_vniz_2.mp4",
+   "clipBytes": 439935,
+   "clipMd5": "30c7eaafc94af9d8ed530fb220b9fa7a"
+  },
+  {
+   "uid": "afe5e3dd-14db-341a-8199-f0d60bbaadb1",
+   "revision": 1,
+   "minApp": 1,
+   "title": "006",
+   "description": "Движения выполняются согнутыми в локтях руками  сначало вперед потом назад. Имитация плаванья, корпус немного поворачиваем вперед вслед за локтем.",
+   "reps": 10,
+   "sets": 1,
+   "pauseSeconds": 0,
+   "repSeconds": 3,
+   "differentSides": true,
+   "differentLimbs": false,
+   "muscleGroups": [
+    "Плечи",
+    "Спина"
+   ],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [
+    {
+     "bodyPart": "Грудной отдел спины",
+     "note": null
+    },
+    {
+     "bodyPart": "Поясница",
+     "note": null
+    }
+   ],
+   "clip": "klip_6_lokti_krugi_vid_sboku.mp4",
+   "clipBytes": 291256,
+   "clipMd5": "8e798eb47ded16458a37e176c5dc91e8"
+  },
+  {
+   "uid": "16490f5e-c268-31bd-99fb-76f08914d5b0",
+   "revision": 1,
+   "minApp": 1,
+   "title": "007",
+   "description": "Поставить руки на пояс. Сводим локти вперед до упора а затем отводим назад и сводим лопатки.",
+   "reps": 20,
+   "sets": 1,
+   "pauseSeconds": 0,
+   "repSeconds": 3,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [
+    "Спина"
+   ],
+   "ageCategories": [
+    {
+     "name": "Все",
+     "minAge": 0,
+     "maxAge": null
+    }
+   ],
+   "timesOfDay": [
+    {
+     "name": "Утро",
+     "sortOrder": 1
+    }
+   ],
+   "pain": [
+    {
+     "bodyPart": "Плечи",
+     "note": null
+    },
+    {
+     "bodyPart": "Поясница",
+     "note": null
+    }
+   ],
+   "clip": "klip_7_lokti_vpered_nazad.mp4",
+   "clipBytes": 305549,
+   "clipMd5": "cb3ef78e9b08f1742ba7ed32fa8ed2e1"
+  },
+  {
+   "uid": "1529d041-1311-3cfe-ad5b-717a0d71e385",
+   "revision": 1,
+   "minApp": 1,
+   "title": "008",
+   "description": "Ставим руки на пояс. Отводим сначала одну руку через сторону назад. Ладони подняты пальцами вверх. Затем отводим вторую руку.",
+   "reps": 20,
+   "sets": 1,
+   "pauseSeconds": 3,
+   "repSeconds": 3,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [
+    "Спина",
+    "Руки"
+   ],
+   "ageCategories": [
+    {
+     "name": "Все",
+     "minAge": 0,
+     "maxAge": null
+    }
+   ],
+   "timesOfDay": [],
+   "pain": [
+    {
+     "bodyPart": "Плечи",
+     "note": null
+    },
+    {
+     "bodyPart": "Поясница",
+     "note": null
+    }
+   ],
+   "clip": "klip_8_ruka_v_storonu_nazad.mp4",
+   "clipBytes": 245774,
+   "clipMd5": "e9b7ae65321216d9c8f142618595835c"
+  },
+  {
+   "uid": "4dce90a9-e317-3231-821d-2ac81308f055",
+   "revision": 2,
+   "minApp": 1,
+   "title": "009",
+   "description": "Наклоняется в сторону одна рука тянется вдоль туловища в сторону наклона другая сгибается в локте и поднимается вверх.",
+   "reps": 20,
+   "sets": 1,
+   "pauseSeconds": 3,
+   "repSeconds": 3,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [
+    "Плечи",
+    "Спина"
+   ],
+   "ageCategories": [
+    {
+     "name": "Все",
+     "minAge": 0,
+     "maxAge": null
+    }
+   ],
+   "timesOfDay": [],
+   "pain": [
+    {
+     "bodyPart": "Грудной отдел спины",
+     "note": null
+    },
+    {
+     "bodyPart": "Поясница",
+     "note": null
+    }
+   ],
+   "clip": "klip_9_naklony_v_storony.mp4",
+   "clipBytes": 435981,
+   "clipMd5": "3ba58a6fccb42282a3194e8d08addb51"
+  },
+  {
+   "uid": "7ad9bffd-e8a7-362c-a47a-ece199a75a5d",
+   "revision": 2,
+   "minApp": 1,
+   "title": "010",
+   "description": "Разводим руки в стороны параллельно полу. Вращаем плечами вперед руки стараемся держать неподвижно, затем повторяем назад.",
+   "reps": 10,
+   "sets": 1,
+   "pauseSeconds": 5,
+   "repSeconds": 2,
+   "differentSides": true,
+   "differentLimbs": false,
+   "muscleGroups": [
+    "Плечи"
+   ],
+   "ageCategories": [
+    {
+     "name": "Все",
+     "minAge": 0,
+     "maxAge": null
+    }
+   ],
+   "timesOfDay": [],
+   "pain": [
+    {
+     "bodyPart": "Плечи",
+     "note": null
+    }
+   ],
+   "clip": "klip_10_krugi_rukami_nazad.mp4",
+   "clipBytes": 202778,
+   "clipMd5": "c67443528d574b5681283ecf099e833c"
+  },
+  {
+   "uid": "fb59ea69-4130-3baa-9c14-f07ed7ca0f12",
+   "revision": 2,
+   "minApp": 1,
+   "title": "011",
+   "description": "Развести руки в стороны параллельно полу. Делаем небольшие круговые движения вытянутыми руками с начала вперед затем назад.",
+   "reps": 10,
+   "sets": 1,
+   "pauseSeconds": 5,
+   "repSeconds": 1,
+   "differentSides": true,
+   "differentLimbs": false,
+   "muscleGroups": [
+    "Руки"
+   ],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [
+    {
+     "bodyPart": "Поясница",
+     "note": null
+    }
+   ],
+   "clip": "klip_11_krugi_rukami_vpered.mp4",
+   "clipBytes": 278100,
+   "clipMd5": "ca5f8c5f857dbfd2efa042da6f9adff1"
+  },
+  {
+   "uid": "4b569060-c695-3c74-a1eb-83453b71ffd8",
+   "revision": 2,
+   "minApp": 1,
+   "title": "012",
+   "description": "Заводим одну руку за голову другую за спину на уровне поясницы. Руки не должны касаться корпуса. держите руки как можно дальше.",
+   "reps": 20,
+   "sets": 1,
+   "pauseSeconds": 3,
+   "repSeconds": 3,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_12_smena_ruk_za_golovoy.mp4",
+   "clipBytes": 347056,
+   "clipMd5": "b4b59bec659a28256dbdcb233f32f43f"
+  },
+  {
+   "uid": "60cfb8b6-d5c0-329e-98b4-1f9f6262a2dc",
+   "revision": 2,
+   "minApp": 1,
+   "title": "013",
+   "description": "Поочередное вращаем прямые руки назад как-бы имитируя плавание на спине.",
+   "reps": 20,
+   "sets": 1,
+   "pauseSeconds": 3,
+   "repSeconds": 2,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_13_krug_odnoy_rukoy.mp4",
+   "clipBytes": 367656,
+   "clipMd5": "8ce1b79258ca0e6b47bcfce6ef36b353"
+  },
+  {
+   "uid": "ca4e3239-ff04-3ae2-86ad-ff23cc1635d4",
+   "revision": 2,
+   "minApp": 1,
+   "title": "014",
+   "description": "Одновременно поднимаем две руки через перед вверх, одновременно поднимаясь на носочки, затем плавно опускаем руки через стороны вниз.",
+   "reps": 20,
+   "sets": 1,
+   "pauseSeconds": 3,
+   "repSeconds": 2,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_14_krugi_cherez_verh.mp4",
+   "clipBytes": 285974,
+   "clipMd5": "344236ce6549cab3ad2df410e3f7dc02"
+  },
+  {
+   "uid": "28f980d0-485b-3a57-9473-3de9dc08f003",
+   "revision": 2,
+   "minApp": 1,
+   "title": "015",
+   "description": "Держим палку за концы и начинаем поднимать снизу вверх перед собой затем на вытянутых руках опускаем вниз от себя. Упражнение выполняется в обе стороны по кругу.",
+   "reps": 10,
+   "sets": 1,
+   "pauseSeconds": 5,
+   "repSeconds": 4,
+   "differentSides": true,
+   "differentLimbs": false,
+   "muscleGroups": [
+    "Руки"
+   ],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [
+    {
+     "bodyPart": "Поясница",
+     "note": null
+    }
+   ],
+   "clip": "klip_15_palka_vverh_cherez_grud.mp4",
+   "clipBytes": 199212,
+   "clipMd5": "0bdf2c91e5844d1d2980f00a5a328412"
+  },
+  {
+   "uid": "cf9f561b-4df9-37e8-a18b-9d18282ab7d6",
+   "revision": 2,
+   "minApp": 1,
+   "title": "016",
+   "description": "Возьмите палку за концы и заведите на уровень груди. Мышцы между лопатками напряжены. Перемещаем палку в сторону выпрямляя руку. Затем делаем в другую сторону.",
+   "reps": 20,
+   "sets": 1,
+   "pauseSeconds": 5,
+   "repSeconds": 2.5,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [
+    "Руки"
+   ],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_16_palka_vlevo_vpravo.mp4",
+   "clipBytes": 404412,
+   "clipMd5": "e8583881421911ebd2d484721eb155da"
+  },
+  {
+   "uid": "6763b5f6-84be-35d0-af31-d2f09ac33056",
+   "revision": 2,
+   "minApp": 1,
+   "title": "017",
+   "description": "Гимнастическую палку держим за края перед собой внизу. Один конец палки останется внизу а другой заводится в сторону другой вытянутой рукой. Затем палку возвращаем назад. Делаем в другую сторону.",
+   "reps": 20,
+   "sets": 1,
+   "pauseSeconds": 5,
+   "repSeconds": 2,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_17_palka_vertikalno_sboku.mp4",
+   "clipBytes": 196922,
+   "clipMd5": "8b037be4b1f3035fb72a8197c9f9dcd4"
+  },
+  {
+   "uid": "ca249a26-f1e4-3c38-9837-dcd7ae93c300",
+   "revision": 2,
+   "minApp": 1,
+   "title": "018",
+   "description": "Держим палку внизу за краям. Поднимаем палку через сторону вверх. Палка строго перпендикулярна полу. Далее опускаем и поднимаем палку в другую сторону.",
+   "reps": 20,
+   "sets": 1,
+   "pauseSeconds": 5,
+   "repSeconds": 2.5,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [
+    "Руки"
+   ],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_18_palka_vertikalno_vverh.mp4",
+   "clipBytes": 328433,
+   "clipMd5": "05e9786cc152bb6fa2717088530972f1"
+  },
+  {
+   "uid": "9e629dda-df5a-34ea-9aa3-1c13c06609b4",
+   "revision": 2,
+   "minApp": 1,
+   "title": "019",
+   "description": "Держим палку внизу пере собой в центре двумя руками. Поднимаем палку к подбородку и опускаем вниз.",
+   "reps": 20,
+   "sets": 1,
+   "pauseSeconds": 5,
+   "repSeconds": 2,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [
+    "Руки"
+   ],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_19_palka_za_golovu.mp4",
+   "clipBytes": 220307,
+   "clipMd5": "3ec937254e899e7f1cdac0a14c91ccd7"
+  },
+  {
+   "uid": "8cdb9f27-0ae5-31f8-ad14-a9007d4fbb41",
+   "revision": 2,
+   "minApp": 1,
+   "title": "020",
+   "description": "Держим палку на груди, корпус поворачиваем вправо выпрямляя левую руку вперед правую сгибая в локте. Локоть смотрит назад как продолжение палки. Делаем в другую сторону вытягивая другую руку.",
+   "reps": 20,
+   "sets": 1,
+   "pauseSeconds": 5,
+   "repSeconds": 3,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [
+    "Спина",
+    "Руки"
+   ],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [
+    {
+     "bodyPart": "Поясница",
+     "note": null
+    }
+   ],
+   "clip": "klip_20_povorot_i_palka_v_storonu.mp4",
+   "clipBytes": 289533,
+   "clipMd5": "f37ceb3fabd4cc671846d6a343e2b294"
+  },
+  {
+   "uid": "7bdbe6a8-ae1a-349a-8788-7075ab992be0",
+   "revision": 2,
+   "minApp": 1,
+   "title": "021",
+   "description": "Держим палку на уровне груди на концы. делаем поворот корпуса вправо одновременное сгибая левую руку в локте в правую выпрямляя. Меняем направление вращения.",
+   "reps": 20,
+   "sets": 1,
+   "pauseSeconds": 5,
+   "repSeconds": 3,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [
+    "Спина",
+    "Руки"
+   ],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [
+    {
+     "bodyPart": "Поясница",
+     "note": null
+    }
+   ],
+   "clip": "klip_21_povoroty_s_palkoy.mp4",
+   "clipBytes": 327255,
+   "clipMd5": "0030a2664e792bfba26aff67f079ae1e"
+  },
+  {
+   "uid": "04eccc69-145c-325d-a65d-f9c36b71657a",
+   "revision": 2,
+   "minApp": 1,
+   "title": "022",
+   "description": "Держим палку за края за спиной и делаем повороты корпуса из стороны в сторону.",
+   "reps": 20,
+   "sets": 1,
+   "pauseSeconds": 5,
+   "repSeconds": 2,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_22_palka_za_sheey_povoroty.mp4",
+   "clipBytes": 345128,
+   "clipMd5": "4b3a1ad92c95aa7385869e78301dc150"
+  },
+  {
+   "uid": "aaad5d11-73bd-3de5-b08a-a13b08d35d6d",
+   "revision": 2,
+   "minApp": 1,
+   "title": "023",
+   "description": "Держим палку за края за спиной. Делаем поочередные наклоны в разные стороны.",
+   "reps": 20,
+   "sets": 1,
+   "pauseSeconds": 5,
+   "repSeconds": 2,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [
+    "Спина"
+   ],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [
+    {
+     "bodyPart": "Поясница",
+     "note": null
+    }
+   ],
+   "clip": "klip_23_palka_za_sheey_naklony.mp4",
+   "clipBytes": 419778,
+   "clipMd5": "27ce4ef193f9296f154a2c13af30a0e5"
+  },
+  {
+   "uid": "54ddd029-13cb-3e01-9cfd-4384281e26e9",
+   "revision": 2,
+   "minApp": 1,
+   "title": "024",
+   "description": "Держим палку за спиной на пояснице. Делаем повороты корпуса поочередно в разные стороны.",
+   "reps": 20,
+   "sets": 1,
+   "pauseSeconds": 5,
+   "repSeconds": 2,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [
+    "Спина"
+   ],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [
+    {
+     "bodyPart": "Поясница",
+     "note": null
+    }
+   ],
+   "clip": "klip_24_palka_v_loktyah_povoroty.mp4",
+   "clipBytes": 364538,
+   "clipMd5": "556b99ff235fb822e7df5cbedd670661"
+  },
+  {
+   "uid": "52ddb674-e500-3f64-9c8c-46015c78829a",
+   "revision": 2,
+   "minApp": 1,
+   "title": "025",
+   "description": "Держим палку за спиной на уровне поясницы и делаем наклоны  поочередно в разные стороны.",
+   "reps": 20,
+   "sets": 1,
+   "pauseSeconds": 5,
+   "repSeconds": 2,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [
+    "Спина"
+   ],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [
+    {
+     "bodyPart": "Поясница",
+     "note": null
+    }
+   ],
+   "clip": "klip_25_veslo.mp4",
+   "clipBytes": 438720,
+   "clipMd5": "0ab99828b63702c2dab1089a31ea5e78"
+  },
+  {
+   "uid": "998c11f9-5f3b-3f9e-8e11-de56ad633a5f",
+   "revision": 2,
+   "minApp": 1,
+   "title": "026",
+   "description": "Держим палку перед собой внизу. Правой рукой заводим палку за головой и опускаем ее за спину.Затем левой рукой заводим палку за голову и опускаем ее перед собой. Затем делаем упражнение другой рукой.",
+   "reps": 10,
+   "sets": 1,
+   "pauseSeconds": 5,
+   "repSeconds": 4,
+   "differentSides": true,
+   "differentLimbs": false,
+   "muscleGroups": [
+    "Спина",
+    "Руки"
+   ],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [
+    {
+     "bodyPart": "Поясница",
+     "note": null
+    }
+   ],
+   "clip": "klip_26_palka_za_spinu_cherez_golovu.mp4",
+   "clipBytes": 266365,
+   "clipMd5": "ddfad4f2bbbd5e25ce9606703882c357"
+  },
+  {
+   "uid": "b15d5bb3-e07b-30d5-96d0-71763663f2c8",
+   "revision": 2,
+   "minApp": 1,
+   "title": "027",
+   "description": "Держим палку перед собой за концы. Поднимаем над головой одновременно отставляем одну ногу назад. Ноги чередуем при каждом поднятии палки.",
+   "reps": 20,
+   "sets": 1,
+   "pauseSeconds": 3,
+   "repSeconds": 2.5,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [
+    "Спина"
+   ],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [
+    {
+     "bodyPart": "Поясница",
+     "note": null
+    }
+   ],
+   "clip": "klip_27_palka_vverh_vniz.mp4",
+   "clipBytes": 265043,
+   "clipMd5": "969b8d1a9ed3b570be27f70ba12fffb0"
+  },
+  {
+   "uid": "ac1e19be-8b48-35be-ba46-f910ddcba2ad",
+   "revision": 2,
+   "minApp": 1,
+   "title": "028",
+   "description": "Лягте на живот, ноги вместе, подъем стоп прижат к полу. Руки вытяните вдоль тела. Лопатки сведены. На вдохе поднимаем голову, грудь и руки.Руки тянутся назад , большие пальцы вверх. Шея продолжение позвоночника. Держим заданное время, на выдохе опускаемся.",
+   "reps": 1,
+   "sets": 3,
+   "pauseSeconds": 15,
+   "repSeconds": 10,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [
+    "Спина"
+   ],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_28_lezha_ruki_nazad_palcy_vverh.mp4",
+   "clipBytes": 105310,
+   "clipMd5": "0d5298a11ffb6e5911268da539d510be"
+  },
+  {
+   "uid": "d33bb9e2-ee9c-3497-987c-3d0885e1f52b",
+   "revision": 2,
+   "minApp": 1,
+   "title": "029",
+   "description": "Руки с резинкой вытянули перед собой. Ноги на ширине плеч. Руки поднимаются вверх и заводятся назад. Затем возвращаются на исходную позицию.",
+   "reps": 10,
+   "sets": 1,
+   "pauseSeconds": 10,
+   "repSeconds": 5,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [
+    "Спина",
+    "Руки"
+   ],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [
+    {
+     "bodyPart": "Грудной отдел спины",
+     "note": null
+    }
+   ],
+   "clip": "klip_29_polotence_cherez_golovu_za_spinu.mp4",
+   "clipBytes": 330928,
+   "clipMd5": "7c4a027e555e88cc1838068f9a794e75"
+  },
+  {
+   "uid": "c2534322-ac81-3cb1-8374-b76a8c54a966",
+   "revision": 2,
+   "minApp": 1,
+   "title": "030",
+   "description": "Лягте на живот, ноги вместе, подъемы стоп прижаты к полу.Ладони подставьте под плечи, логти прижаты к корпусу. На вдохе поднимаем грудь, отталкиваясь руками, но тянитесь в первую очередь за счёт мышц спины. Таз и бёдра остаются на полу, логти слегка согнуты. Плечи опущены, лопатки сведены, грудь раскрыта вперед.",
+   "reps": 1,
+   "sets": 3,
+   "pauseSeconds": 15,
+   "repSeconds": 8,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [
+    "Спина"
+   ],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_30_kobra_lezha.mp4",
+   "clipBytes": 149706,
+   "clipMd5": "eaaeb3484286e57425ac4e7effb7f7df"
+  },
+  {
+   "uid": "56740e62-2141-38c6-b75d-95dd37ec8f96",
+   "revision": 2,
+   "minApp": 1,
+   "title": "032",
+   "description": "Исходное положение становимся спиной к стене.Голова, спина и  поясница прижаты к стене. Руки согнутые в локтях прижимаем к стене параллельно полу. Медленно поднимаем руки вверх скользя по стене и выпрямляем их. Макушка головы тянет голову вверх. Медленно опускаем руки, голову втягиваем в шею, подбородком тянемся к груди. Возвращаемся в исходное положение.",
+   "reps": 5,
+   "sets": 1,
+   "pauseSeconds": 10,
+   "repSeconds": 5,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [
+    "Спина"
+   ],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_32_skolzhenie_po_stene.mp4",
+   "clipBytes": 494593,
+   "clipMd5": "1e064f2c26979659003b003b1cccf594"
+  },
+  {
+   "uid": "64c300e2-18c6-3e6c-8bcb-5da0ffb29166",
+   "revision": 2,
+   "minApp": 1,
+   "title": "033",
+   "description": "Встаньте на четвереньки , сядьте тазом ближе к пяткам. Одна ладонь стоит на полу под плечом, вторую руку положить на затылок. Выдохните и проверните корпус вниз, локтем к опорной руке. На вдохе раскройтесь в вверх, ведя локоть к потолку. Двигайтесь медленно.",
+   "reps": 5,
+   "sets": 1,
+   "pauseSeconds": 5,
+   "repSeconds": 4,
+   "differentSides": true,
+   "differentLimbs": false,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_33_vrashchenie_grudnogo_na_kolenyah.mp4",
+   "clipBytes": 581921,
+   "clipMd5": "288b9b018773e76ffbbba0b3dfdd9500"
+  },
+  {
+   "uid": "b352bf11-7ee8-3f03-a8e5-0708d208f708",
+   "revision": 2,
+   "minApp": 1,
+   "title": "034",
+   "description": "Встаньте в выпаде на одно колено. Напрягите ягодицу задней ноги и слегка подтяните низ живота. Держа таз в таком положении, медленно сместитесь вперёд, пока не почувствуете растяжение спереди бедра и в паху задней ноги. Корпус прямой, не прогибаться в пояснице.",
+   "reps": 1,
+   "sets": 1,
+   "pauseSeconds": 15,
+   "repSeconds": 15,
+   "differentSides": false,
+   "differentLimbs": true,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_34_vypad_na_kolene_rastyazhka_bedra.mp4",
+   "clipBytes": 319580,
+   "clipMd5": "5bc9ac6fa4249cac56c032ded9090ef2"
+  },
+  {
+   "uid": "e49e1d1f-87e6-3837-888f-d024002d2a11",
+   "revision": 2,
+   "minApp": 1,
+   "title": "035",
+   "description": "Вставить лицом к дивану или кровати.Положить переднюю ногу на опору, согнув колено: голень лежит параллельно краю, стопа у противоположного бедра. Заднию ногу отведите назад , она прямая стоит на носке. Руки положите на ногу. Медленно наклоняйтесь вперед с ровной спиной.",
+   "reps": 1,
+   "sets": 1,
+   "pauseSeconds": 10,
+   "repSeconds": 30,
+   "differentSides": false,
+   "differentLimbs": true,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_35_rastyazhka_yagodicy_na_divane.mp4",
+   "clipBytes": 1035911,
+   "clipMd5": "0ae09309b0ed6563ed2c99243ae6e645"
+  },
+  {
+   "uid": "25d7c54d-10fe-3865-acd1-0c88185ccd75",
+   "revision": 2,
+   "minApp": 1,
+   "title": "036",
+   "description": "Сядьте на край стула, стопы на полу спина прямая. Положите лодышку одной ноги на колено другой.Рукой мягко надавите на колено согнутой ноги вниз. Для усиления наклонитесь вперед.",
+   "reps": 1,
+   "sets": 1,
+   "pauseSeconds": 10,
+   "repSeconds": 15,
+   "differentSides": false,
+   "differentLimbs": true,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_36_golub_sidya_na_stule.mp4",
+   "clipBytes": 633188,
+   "clipMd5": "8b8582e380c9746180a0f09698eaa1ae"
+  },
+  {
+   "uid": "56de80c6-f95e-34cd-a692-1e956addfb75",
+   "revision": 2,
+   "minApp": 1,
+   "title": "037",
+   "description": "Лягте на спину, колени согнуты, стопы на ширине таза и стоят полностью на полу. На выдохе поднимите таз сжимая ягодицы. Задержитесь вверху на 2-3 секунды, сильно сжимая ягодицы. Медленно опуститесь позвонок за позвонком.",
+   "reps": 5,
+   "sets": 1,
+   "pauseSeconds": 20,
+   "repSeconds": 5,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_37_yagodichnyy_most.mp4",
+   "clipBytes": 403688,
+   "clipMd5": "825865750ccbaf364bd3f26a7b312f12"
+  },
+  {
+   "uid": "d686b4c8-bbee-38bd-a733-c03efe212110",
+   "revision": 2,
+   "minApp": 1,
+   "title": "038",
+   "description": "Лягте на спину, колени согнуты, стопы на полу, руки вдоль тела. Поднимите одну ногу согнув в колене. Отталкиваясь пяткой опорной ноги, поднимите таз до прямой линии от плеча до колена. Задержитесь на 2-3 секунды сжимая ягодицу опорной ноги. Медленно опуститесь.",
+   "reps": 5,
+   "sets": 1,
+   "pauseSeconds": 15,
+   "repSeconds": 5,
+   "differentSides": false,
+   "differentLimbs": true,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_38_most_na_odnoy_noge.mp4",
+   "clipBytes": 728522,
+   "clipMd5": "8625077d4dbe3ee1a2c07688129ce7e4"
+  },
+  {
+   "uid": "53b7966c-b2ee-3f61-9eba-c761133d286f",
+   "revision": 2,
+   "minApp": 1,
+   "title": "039",
+   "description": "Встаньте на четвереньки. Одновременно вытяните одну руку вперед и противоположную ногу назад. Рука и нога поднимаются до уровня корпуса не выше. Тянитесь в длину, как будто вас растягивают в разные стороны. задержитесь на 5 секунд, медленно вернитесь и смените сторону.",
+   "reps": 8,
+   "sets": 1,
+   "pauseSeconds": 0,
+   "repSeconds": 7,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_39_ruka_vpered_na_chetverenkah.mp4",
+   "clipBytes": 413084,
+   "clipMd5": "46e5ba44794762df9e166060bd43237b"
+  },
+  {
+   "uid": "479b7b3e-e69c-329c-9ea0-4a832f24508b",
+   "revision": 2,
+   "minApp": 1,
+   "title": "040",
+   "description": "Встаньте прямо, руки сцепить в замок на затылке. Вдох разведите локти широко в стороны и чуть назад, сводя лопатки. Грудь раскрывается, голова прямо. Выдох: введите локти вперед перед лицом, слегка опуская подбородок к груди. Спина округляется и растягивается.",
+   "reps": 10,
+   "sets": 1,
+   "pauseSeconds": 0,
+   "repSeconds": 5,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_40_lokti_za_golovoy_svedenie.mp4",
+   "clipBytes": 351320,
+   "clipMd5": "bf2fb67f705be4efe703232771193c1e"
+  },
+  {
+   "uid": "641459b0-6640-3199-9592-bed12740b797",
+   "revision": 2,
+   "minApp": 1,
+   "title": "041",
+   "description": "Все упражнения для шеи делаются очень медленно, аккуратно и мягко, не допускайте болевых ощущений. Плечи расслабленны и опущены вниз. Вытягиваем подбородок вперед и втягиваем его обратно в шею.Это должно быть растягивающее движение мышц.",
+   "reps": 5,
+   "sets": 1,
+   "pauseSeconds": 0,
+   "repSeconds": 6,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [
+    "Шея"
+   ],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [
+    {
+     "bodyPart": "Шея",
+     "note": null
+    }
+   ],
+   "clip": "klip_41_SH_golova_vpered_nazad.mp4",
+   "clipBytes": 199496,
+   "clipMd5": "53050ef49738fb6713e331330f6f0f65"
+  },
+  {
+   "uid": "92ae6611-fc7b-3f8f-97b6-37206f4c5e50",
+   "revision": 2,
+   "minApp": 1,
+   "title": "042",
+   "description": "Поворот головы в лево и право и тянемся к плечам подбородком. Тянемся по горизонту.",
+   "reps": 5,
+   "sets": 1,
+   "pauseSeconds": 0,
+   "repSeconds": 6,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [
+    "Шея"
+   ],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [
+    {
+     "bodyPart": "Шея",
+     "note": null
+    }
+   ],
+   "clip": "klip_42_SH_povoroty_golovy.mp4",
+   "clipBytes": 376276,
+   "clipMd5": "6c2595520acb376a383306280daca16e"
+  },
+  {
+   "uid": "d7923b50-22f6-30b4-8f95-5ec3eca31b14",
+   "revision": 2,
+   "minApp": 1,
+   "title": "043",
+   "description": "Делаем наклоны подбородком вниз и будто стекает по грудине , наклон головы назад тоже в полсилы.Тянем макушку назад вверх.Голову назад не закидывает.",
+   "reps": 5,
+   "sets": 1,
+   "pauseSeconds": 0,
+   "repSeconds": 6,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [
+    "Шея"
+   ],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [
+    {
+     "bodyPart": "Шея",
+     "note": null
+    }
+   ],
+   "clip": "klip_43_SH_naklony_golovy_vpered_nazad.mp4",
+   "clipBytes": 552358,
+   "clipMd5": "d2cca7ece8adb977504aaf3729aa8d57"
+  },
+  {
+   "uid": "0cbd54ca-43a3-371f-9327-7defde4fb464",
+   "revision": 2,
+   "minApp": 1,
+   "title": "044",
+   "description": "Поворот головы назад через сторону и посмотреть назад. Чуть чуть тянемся пытаясь посмотреть назад. Делаем поворот в другую сторону и также пытаемся повернуть голову назад.",
+   "reps": 5,
+   "sets": 1,
+   "pauseSeconds": 0,
+   "repSeconds": 8,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [
+    "Шея"
+   ],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [
+    {
+     "bodyPart": "Шея",
+     "note": null
+    }
+   ],
+   "clip": "klip_44_SH_povoroty_golovy_v_storony.mp4",
+   "clipBytes": 582910,
+   "clipMd5": "ef868c0543200d4fbc1d045decbb61a5"
+  },
+  {
+   "uid": "8302e803-4980-3359-86cc-eff104c388e0",
+   "revision": 2,
+   "minApp": 1,
+   "title": "045",
+   "description": "Наклоняем голову вниз и поворот влево и право. Макушка тянется вверх под 45 градусов. В этой позиции мы смотрим в небо.",
+   "reps": 5,
+   "sets": 1,
+   "pauseSeconds": 0,
+   "repSeconds": 8,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [
+    "Шея"
+   ],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [
+    {
+     "bodyPart": "Шея",
+     "note": null
+    }
+   ],
+   "clip": "klip_45_SH_polukrugi_golovoy.mp4",
+   "clipBytes": 584452,
+   "clipMd5": "0138c78f34a13298ecd4d52aeb7a1533"
+  },
+  {
+   "uid": "9c167b33-1459-3354-9725-2fed428d6c5f",
+   "revision": 2,
+   "minApp": 1,
+   "title": "046",
+   "description": "Делаем наклон головы к плечу и вытягивание макушки. Повторяем в другую сторону.",
+   "reps": 5,
+   "sets": 1,
+   "pauseSeconds": 0,
+   "repSeconds": 8,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [
+    "Шея"
+   ],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [
+    {
+     "bodyPart": "Шея",
+     "note": null
+    }
+   ],
+   "clip": "klip_46_SH_naklony_k_plecham.mp4",
+   "clipBytes": 869906,
+   "clipMd5": "27854a0b3b89f22b3629f14992e5d728"
+  },
+  {
+   "uid": "295f96be-5c90-3d9a-b255-9b25c01a40ab",
+   "revision": 2,
+   "minApp": 1,
+   "title": "047",
+   "description": "Втянуть голову в шею, повернуть влево , вытянуть подбородок и по кругу перевести вправо, и снова втянуть голову в шею. Повторяем в другую сторону.",
+   "reps": 5,
+   "sets": 1,
+   "pauseSeconds": 0,
+   "repSeconds": 8,
+   "differentSides": true,
+   "differentLimbs": false,
+   "muscleGroups": [
+    "Шея"
+   ],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [
+    {
+     "bodyPart": "Шея",
+     "note": null
+    }
+   ],
+   "clip": "klip_47_SH_vtyagivanie_povorot_polukrug.mp4",
+   "clipBytes": 933685,
+   "clipMd5": "80c909aad587e0c4caee8174ff776c81"
+  },
+  {
+   "uid": "bb16ec90-6bb8-3b0b-9fd6-eb8763c39189",
+   "revision": 2,
+   "minApp": 1,
+   "title": "048",
+   "description": "Незначительный наклон головы делаем повороты влево и вправо, взглядом смотрим в землю.",
+   "reps": 5,
+   "sets": 1,
+   "pauseSeconds": 0,
+   "repSeconds": 8,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [
+    "Шея"
+   ],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [
+    {
+     "bodyPart": "Шея",
+     "note": null
+    }
+   ],
+   "clip": "klip_48_SH_povoroty_zaprokinutoy_golovy.mp4",
+   "clipBytes": 741001,
+   "clipMd5": "3c1b84a78959c0028b91d189f2b1cf62"
+  },
+  {
+   "uid": "2b673abe-924d-3263-b337-3ba12b269855",
+   "revision": 2,
+   "minApp": 1,
+   "title": "049",
+   "description": "Поворачиваем голову в сторону с наклоном немного вниз , потом поворачиваем голову вниз, потянуться подбородком вниз, затем поднимаем голову и втягиваем ее в шею. Повторяем в другую сторону.",
+   "reps": 5,
+   "sets": 1,
+   "pauseSeconds": 0,
+   "repSeconds": 8,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [
+    "Шея"
+   ],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [
+    {
+     "bodyPart": "Шея",
+     "note": null
+    }
+   ],
+   "clip": "klip_49_SH_ot_plecha_k_grudi.mp4",
+   "clipBytes": 599963,
+   "clipMd5": "dd62096771d9d4dcc21f51c8ae3b3cc8"
+  },
+  {
+   "uid": "1055c789-aa08-3bae-aec4-aeb2d698d5b1",
+   "revision": 2,
+   "minApp": 1,
+   "title": "050",
+   "description": "Повот головы в сторону с наклоном вниз, смотрим в землю. Поворачиваем голову вниз, затем поворачиваем дальше по кругу в другую сторону, ставим прямо и втягиваем в шею. Затем делается в другую сторону.",
+   "reps": 5,
+   "sets": 1,
+   "pauseSeconds": 0,
+   "repSeconds": 8,
+   "differentSides": true,
+   "differentLimbs": false,
+   "muscleGroups": [
+    "Шея"
+   ],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [
+    {
+     "bodyPart": "Шея",
+     "note": null
+    }
+   ],
+   "clip": "klip_50_SH_polukrugi_ot_plecha_k_plechu.mp4",
+   "clipBytes": 756477,
+   "clipMd5": "7a3a2cc7c0b38a7817caf74cba02b992"
+  },
+  {
+   "uid": "c0eadea2-ae12-38e8-a3a1-34a03d5283cf",
+   "revision": 2,
+   "minApp": 1,
+   "title": "051",
+   "description": "Встали перед стеной. Одной рукой упираемся в стену, второй рукой берём ступню и тянет вверх.",
+   "reps": 1,
+   "sets": 2,
+   "pauseSeconds": 15,
+   "repSeconds": 30,
+   "differentSides": true,
+   "differentLimbs": false,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [
+    {
+     "bodyPart": "Колени",
+     "note": null
+    }
+   ],
+   "clip": "klip_51_rastyazhka_bedra_stoya.mp4",
+   "clipBytes": 664024,
+   "clipMd5": "f0febf0501bcc4eaf619a098057e4b50"
+  },
+  {
+   "uid": "666b66e7-9bf6-34eb-b5b3-fe35b788022e",
+   "revision": 2,
+   "minApp": 1,
+   "title": "052",
+   "description": "Встаньте перед стеной руками упритесь в нее. Ноги отставьте назад на одну линию, пятки на полу. Колено слегка согнуть, задняя нога выпрямленна. Подайтесь слегка вперед , почувствуйте напряжение.",
+   "reps": 1,
+   "sets": 2,
+   "pauseSeconds": 15,
+   "repSeconds": 30,
+   "differentSides": true,
+   "differentLimbs": false,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [
+    {
+     "bodyPart": "Колени",
+     "note": null
+    }
+   ],
+   "clip": "klip_52_rastyazhka_ikry_u_steny.mp4",
+   "clipBytes": 1382389,
+   "clipMd5": "25aca0f5baa16c00661782b079e744f9"
+  },
+  {
+   "uid": "b72d3a45-aef5-36c3-83b6-2d2d667a1045",
+   "revision": 2,
+   "minApp": 1,
+   "title": "053",
+   "description": "Ноги на ширине плеч, руки сцеплены в ладонях и находятся перед грудью. Делаем полуприсед. Наклон корпуса 45 градусов. Замрите на 2-3 секунды в присяде.",
+   "reps": 10,
+   "sets": 3,
+   "pauseSeconds": 10,
+   "repSeconds": 5,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [
+    {
+     "bodyPart": "Колени",
+     "note": null
+    }
+   ],
+   "clip": "klip_53_prisedaniya.mp4",
+   "clipBytes": 544175,
+   "clipMd5": "74fbecf73f859cd4011372c77b36bcd4"
+  },
+  {
+   "uid": "c2b1b2d8-63e7-3ffb-b133-e3ca39c861bd",
+   "revision": 2,
+   "minApp": 1,
+   "title": "054",
+   "description": "Встаньте рядом с опорой и руками держитесь за нее. Встаньте на одну ногу вторую согните в колене, голень параллельно полу, ноги прижаты друг к другу. Удерживайте ногу в таком положении 10 секунд.",
+   "reps": 10,
+   "sets": 3,
+   "pauseSeconds": 7,
+   "repSeconds": 12,
+   "differentSides": false,
+   "differentLimbs": true,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [
+    {
+     "bodyPart": "Колени",
+     "note": null
+    }
+   ],
+   "clip": "klip_54_sgibanie_nogi_u_stula.mp4",
+   "clipBytes": 678316,
+   "clipMd5": "668a8688c4acd70ebe45dfbb56341e34"
+  },
+  {
+   "uid": "46a91450-6311-35f1-beeb-6618753e1293",
+   "revision": 2,
+   "minApp": 1,
+   "title": "055",
+   "description": "Ложимся на коврик, одна нога согнута в колене другая вытянутая вдоль тела. Поднимаем прямую ногу, носок тянем на себя, на приемлемую высоту. Удерживаем поднятую ногу 5 секунд и опускаем.",
+   "reps": 10,
+   "sets": 3,
+   "pauseSeconds": 10,
+   "repSeconds": 6,
+   "differentSides": false,
+   "differentLimbs": true,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [
+    {
+     "bodyPart": "Колени",
+     "note": null
+    }
+   ],
+   "clip": "klip_55_podem_pryamoy_nogi_lezha.mp4",
+   "clipBytes": 694386,
+   "clipMd5": "27f7676a10f6f7876c9fcde0a619e955"
+  },
+  {
+   "uid": "c0e65467-d739-319b-8743-943de7201481",
+   "revision": 2,
+   "minApp": 1,
+   "title": "056",
+   "description": "Садимся на высокую кушетку, ноги должны свободно висеть. Кладём руки на коленные чашечки. Немного надавливая производим свободные махи.",
+   "reps": 100,
+   "sets": 3,
+   "pauseSeconds": 10,
+   "repSeconds": 0.5,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_56_mayatnik_golenyami_sidya.mp4",
+   "clipBytes": 701861,
+   "clipMd5": "d4274e0c0dc903e45ecbb0be172ec140"
+  },
+  {
+   "uid": "d8e4fd6b-af46-38d9-8dfa-f93b2f1c0284",
+   "revision": 2,
+   "minApp": 1,
+   "title": "057",
+   "description": "Встать боком к стене, положите ладонь на стену чуть позади себя, большим пальцем вверх. Медленно поворачивайте корпус от стены. Для усиления плавно поверните голову в сторону и назад. Делаем в обе стороны.",
+   "reps": 1,
+   "sets": 2,
+   "pauseSeconds": 10,
+   "repSeconds": 30,
+   "differentSides": true,
+   "differentLimbs": false,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_57_rastyazhka_grudi_u_steny.mp4",
+   "clipBytes": 547880,
+   "clipMd5": "56b79f1d90ef15a3f9c0dbf91e3efd36"
+  },
+  {
+   "uid": "5fd1b115-1646-3cbb-ad70-ea435337031f",
+   "revision": 2,
+   "minApp": 1,
+   "title": "058",
+   "description": "Встаньте лицом к стене на расстоянии длины корпуса. Положите ладони на стену на ширине плеч,чуть выше уровня головы. Отходите назад и наклоняйтесь вперед, пока корпус не станет почти параллельно полу. Ноги под тазом , колени прямые или слегка согнутые. Мягко опустит грудь вниз, к полу, руки остаются прямыми. Голова между руками , шея расслаблена, уши на уровне плеч.",
+   "reps": 1,
+   "sets": 2,
+   "pauseSeconds": 20,
+   "repSeconds": 45,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_58_rastyazhka_spiny_u_steny.mp4",
+   "clipBytes": 667797,
+   "clipMd5": "d1424096679b17b6bb993e37152418ef"
+  },
+  {
+   "uid": "2788a4b2-512b-34e3-9c5f-f0d36a3357fa",
+   "revision": 2,
+   "minApp": 1,
+   "title": "059",
+   "description": "Встаньте на четвереньки, ладони чуть впереди плеч. На выдохе поднимите таз вверх и назад, отталкиваясь руками от пола. Голова висит между руками. Тянитесь тазом вверх, а грудь к бёдрам.",
+   "reps": 1,
+   "sets": 2,
+   "pauseSeconds": 60,
+   "repSeconds": 20,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_59_sobaka_mordoy_vniz.mp4",
+   "clipBytes": 483070,
+   "clipMd5": "5dadad65a5a688b09d06881af832c19a"
+  },
+  {
+   "uid": "c26ccb95-c872-32fc-937d-e417bbb97e96",
+   "revision": 2,
+   "minApp": 1,
+   "title": "060",
+   "description": "Встаньте рядом с опорой, стеной. Положите на опору руки над головой. Отведите таз назад от опоры а грудью тянемся вперед, поднимая подбородок. Ноги прямые.",
+   "reps": 1,
+   "sets": 1,
+   "pauseSeconds": 30,
+   "repSeconds": 15,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_60_rastyazhka_spiny_u_stoyki.mp4",
+   "clipBytes": 599385,
+   "clipMd5": "1a80c096ee2f1aca10aee255d2ca7495"
+  },
+  {
+   "uid": "4b03c253-5e5d-3ca3-8fac-2d38b7f30e5a",
+   "revision": 2,
+   "minApp": 1,
+   "title": "061",
+   "description": "Возьмите резинку широким хватом перед собой, руки прямые. Чем шире хват тем легче. На вдохе медленно поднимайте руки вверх и заводите их за спину, на выдохе измените поворот туловища и верните из перед собой. Меняйте повороты туловища в разных направлениях.",
+   "reps": 5,
+   "sets": 1,
+   "pauseSeconds": 10,
+   "repSeconds": 4,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_61_rezinka_cherez_golovu_poocheredno.mp4",
+   "clipBytes": 1198689,
+   "clipMd5": "0bc0a473e2ad5c91fb5bf2199c783422"
+  },
+  {
+   "uid": "a340ab44-60bf-37d3-b81e-926f25f5abcb",
+   "revision": 2,
+   "minApp": 1,
+   "title": "062",
+   "description": "Упирается лопатками на подставку. Ладони уводим на затылок, локти в стороны. Медленно уводим голову назад вместе с корпусом, а таз опускаем вниз. растягивая все тело.",
+   "reps": 3,
+   "sets": 1,
+   "pauseSeconds": 5,
+   "repSeconds": 7,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_62_progib_grudnogo_na_skame.mp4",
+   "clipBytes": 79205,
+   "clipMd5": "4cd5ecbbdf4f784b929b67df2f1284a1"
+  },
+  {
+   "uid": "45074934-8a37-31a1-a41b-0e100db30644",
+   "revision": 2,
+   "minApp": 1,
+   "title": "063",
+   "description": "Лягте на живот, руки вытянуты, ноги вытянуты. На вдохе поднимите руки и ноги приподняв грудь и прогнувшись в пояснице, начните движения руки и ноги вверз вниз.",
+   "reps": 3,
+   "sets": 1,
+   "pauseSeconds": 15,
+   "repSeconds": 10,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_63_plavanie_lezha.mp4",
+   "clipBytes": 808137,
+   "clipMd5": "6eabd7e0c6975818f43f4d05708cf548"
+  },
+  {
+   "uid": "85292feb-1161-3b44-ab21-bc3ad3432bcb",
+   "revision": 2,
+   "minApp": 1,
+   "title": "064",
+   "description": "Лягте на спину, под голову невысокий валик, руки разведены в стороны на полу. Подтяните согнутые колени к груди, колени и стопы вместе. Сомкнутыми коленями плавно покачивайтесь вправо и влево, на 30–40° от вертикали. Плечи и руки остаются на полу. Один повтор — покачивание вправо и влево.",
+   "reps": 10,
+   "sets": 1,
+   "pauseSeconds": 0,
+   "repSeconds": 3.5,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_64_koleni_k_grudi_pokachivanie.mp4",
+   "clipBytes": 581600,
+   "clipMd5": "5ec957088a98b10ec2f7e52dd40b1b19"
+  },
+  {
+   "uid": "4f788fb0-8d03-329f-b5e2-9eb7b846f784",
+   "revision": 2,
+   "minApp": 1,
+   "title": "065",
+   "description": "Поза как в упражнении 64, только руки вдоль тела. Сомкнутыми коленями описывайте восьмёрку: наклон вправо и влево, и за каждый наклон колени уходят от груди и возвращаются к ней. Плечи и руки на полу. Один повтор — полная восьмёрка.",
+   "reps": 6,
+   "sets": 1,
+   "pauseSeconds": 0,
+   "repSeconds": 5,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_65_koleni_vosmerkoy.mp4",
+   "clipBytes": 757091,
+   "clipMd5": "c8f2eda49c7b8d0b87d06e6dc2b00c21"
+  },
+  {
+   "uid": "1cc76124-1a97-300b-b0f3-fb966d9e8f65",
+   "revision": 2,
+   "minApp": 1,
+   "title": "066",
+   "description": "Лягте на правый бок, голова на согнутой правой руке, левая рука расслаблена на корпусе. Правая, нижняя, нога вытянута. Левая согнута в колене и стопой стоит на полу перед правой. Прямую нижнюю ногу поднимайте от бедра вверх и опускайте. Таз и корпус лежат и не приподнимаются. Затем повернитесь на другой бок.",
+   "reps": 12,
+   "sets": 1,
+   "pauseSeconds": 15,
+   "repSeconds": 3,
+   "differentSides": false,
+   "differentLimbs": true,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_66_podem_nizhney_nogi_na_boku.mp4",
+   "clipBytes": 233053,
+   "clipMd5": "b2f69aed957aae73c5b02bdea7780397"
+  },
+  {
+   "uid": "02531573-44f3-3fa6-ad91-b907af0ca4d6",
+   "revision": 2,
+   "minApp": 1,
+   "title": "067",
+   "description": "Встаньте на четвереньки: ладони под плечами, колени на ширине плеч, спина прямая, взгляд в пол. Под одно колено положите мягкий кирпичик. Другую ногу, согнутую в колене, поднимайте вверх: бедро до уровня спины, носок выпрямляется. Повторите другой ногой.",
+   "reps": 10,
+   "sets": 1,
+   "pauseSeconds": 15,
+   "repSeconds": 2,
+   "differentSides": false,
+   "differentLimbs": true,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_67_podem_nogi_na_chetverenkah_s_kirpichikom.mp4",
+   "clipBytes": 388357,
+   "clipMd5": "8456b67d4df4b73e389a5a68a5a7b605"
+  },
+  {
+   "uid": "727ee83f-0bbb-3acb-913e-a4f133404998",
+   "revision": 2,
+   "minApp": 1,
+   "title": "068",
+   "description": "Стойте прямо, стопы на ширине бёдер. Прямые руки движутся навстречу друг другу через перед: одна поднимается, другая опускается. В крайней точке одна рука строго вверх, другая строго вниз, и вы на носках. Затем пятки опускаются, и руки меняются. Кисти — продолжение рук.",
+   "reps": 20,
+   "sets": 1,
+   "pauseSeconds": 0,
+   "repSeconds": 1.5,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_68_ruki_vverh_vniz_na_noski.mp4",
+   "clipBytes": 607941,
+   "clipMd5": "def825ea82033d93e28467e38e71f0dd"
+  },
+  {
+   "uid": "c6cda701-0a53-3479-8b5d-6415d69a6023",
+   "revision": 2,
+   "minApp": 1,
+   "title": "069",
+   "description": "Стойте прямо на всей стопе. Обе прямые руки одновременно описывают большие круги вдоль тела: сначала вперёд, затем столько же назад. Кисти — продолжение рук, большой палец прижат.",
+   "reps": 10,
+   "sets": 1,
+   "pauseSeconds": 0,
+   "repSeconds": 1.5,
+   "differentSides": true,
+   "differentLimbs": false,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_69_krugi_rukami_vpered_nazad.mp4",
+   "clipBytes": 782522,
+   "clipMd5": "b113c89307efe4197841ddccfe3270c1"
+  },
+  {
+   "uid": "6d5f1cdd-33f7-302f-91ea-ed3fdad856a5",
+   "revision": 2,
+   "minApp": 1,
+   "title": "070",
+   "description": "Стойте прямо. Прямые руки махом идут вперёд — хлопок перед собой на уровне груди. Затем махом назад — хлопок за спиной на уровне поясницы. Без остановок, руки прямые.",
+   "reps": 20,
+   "sets": 1,
+   "pauseSeconds": 0,
+   "repSeconds": 1.5,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_70_hlopki_vperedi_i_szadi.mp4",
+   "clipBytes": 459793,
+   "clipMd5": "d969039fcfd9bb5b702b1a76ecb3d376"
+  },
+  {
+   "uid": "7fc5a766-b191-38e0-931d-680a35d8b811",
+   "revision": 2,
+   "minApp": 1,
+   "title": "071",
+   "description": "Стойте прямо, стопы на месте, руки расслабленно висят. Поворачивайте корпус влево, голова поворачивается вместе с ним, руки следуют за корпусом. Когда корпус остановился, руки по инерции захлёстывают тело: правая кисть ударяет по левому плечу спереди, левая — по лопатке сзади. Затем то же в другую сторону.",
+   "reps": 20,
+   "sets": 1,
+   "pauseSeconds": 0,
+   "repSeconds": 1.5,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_71_vrashchenie_vselennoy.mp4",
+   "clipBytes": 882077,
+   "clipMd5": "13b6259c440ee70ab9bfe8a2b7731c26"
+  },
+  {
+   "uid": "51ef198e-23b8-37d5-8b64-9f4e2ce360f0",
+   "revision": 2,
+   "minApp": 1,
+   "title": "072",
+   "description": "Стойте прямо. Обе прямые руки плавно поднимите через перед вверх и одновременно поднимитесь на носки. Затем резко опустите руки: прямые руки уходят назад, и одновременно перекатитесь на пятки, задирая носки.",
+   "reps": 20,
+   "sets": 1,
+   "pauseSeconds": 0,
+   "repSeconds": 2.3,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_72_mahi_rukami_noski_pyatki.mp4",
+   "clipBytes": 783539,
+   "clipMd5": "2e46994ecacb111963b0492ceeccd727"
+  },
+  {
+   "uid": "5a841389-4dc9-3104-b5f9-4c4cc6da1ee3",
+   "revision": 2,
+   "minApp": 1,
+   "title": "073",
+   "description": "Встаньте, носки немного развёрнуты в стороны, кисти лежат на плечах. Локти через стороны поднимите вверх выше головы и одновременно поднимитесь на носки. Затем опустите локти почти вдоль туловища и встаньте на всю стопу. Вариант: большие пальцы держать под мышками.",
+   "reps": 20,
+   "sets": 1,
+   "pauseSeconds": 0,
+   "repSeconds": 1.2,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_73_lokti_vverh_na_noski.mp4",
+   "clipBytes": 632052,
+   "clipMd5": "7447b1c32dd3df3d2f566a889efd1fe7"
+  },
+  {
+   "uid": "f527a978-f77a-3c5b-8968-6d1923617883",
+   "revision": 2,
+   "minApp": 1,
+   "title": "074",
+   "description": "Ноги широко, стопы всё время на полу. Исходное положение — стоя, прямые руки вверху, кисти скрещены над головой. Опуститесь в неглубокий полуприсед, колени в стороны. Руки резко через стороны идут вниз и скрещиваются внизу перед собой, между ног. Вставая, поднимайте руки через стороны вверх, кисти снова скрещиваются над головой.",
+   "reps": 20,
+   "sets": 1,
+   "pauseSeconds": 0,
+   "repSeconds": 2,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_74_polupresed_ruki_cherez_storony.mp4",
+   "clipBytes": 1083263,
+   "clipMd5": "49085c3842cbd24b06dbe8336a2a43bc"
+  },
+  {
+   "uid": "a040698e-c966-3970-a543-ddbad5a7652d",
+   "revision": 2,
+   "minApp": 1,
+   "title": "075",
+   "description": "Встаньте спиной к стулу, стопы на ширине плеч, гантели в опущенных руках. Отводя таз назад, опускайтесь, пока ягодицы не коснутся сиденья, но не садитесь. Спина прямая, колени над стопами. Встаньте, толкаясь пятками.",
+   "reps": 4,
+   "sets": 3,
+   "pauseSeconds": 15,
+   "repSeconds": 4,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_75_G_prised_k_stulu.mp4",
+   "clipBytes": 839501,
+   "clipMd5": "938614611ed27da18b9b785c45c4bafd"
+  },
+  {
+   "uid": "667e9b28-f678-390d-9278-2e6c28a235bf",
+   "revision": 2,
+   "minApp": 1,
+   "title": "076",
+   "description": "Стойте прямо: одна рука на спинке стула, в другой гантель. Поднимитесь на носки как можно выше, задержитесь на секунду и плавно опуститесь на всю стопу. Во втором подходе поменяйте руку.",
+   "reps": 10,
+   "sets": 1,
+   "pauseSeconds": 15,
+   "repSeconds": 3,
+   "differentSides": false,
+   "differentLimbs": true,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_76_G_podem_na_noski.mp4",
+   "clipBytes": 484659,
+   "clipMd5": "1f4b4dca31ef2dccd64263b5950d52a3"
+  },
+  {
+   "uid": "94ea3261-2646-3468-84f5-4c909fce4a00",
+   "revision": 2,
+   "minApp": 1,
+   "title": "077",
+   "description": "Держитесь рукой за спинку стула, в другой руке гантель. Сделайте шаг назад одной ногой на носок и прямо опуститесь вниз. Заднее колено не касается пола, переднее колено над стопой. Оттолкнитесь задней ногой и вернитесь в стойку. Затем то же другой ногой.",
+   "reps": 16,
+   "sets": 1,
+   "pauseSeconds": 15,
+   "repSeconds": 4,
+   "differentSides": false,
+   "differentLimbs": true,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_77_G_obratnyy_vypad.mp4",
+   "clipBytes": 873458,
+   "clipMd5": "137aa7e05578c63801aa2e5febf29d94"
+  },
+  {
+   "uid": "23433981-33eb-32a2-967b-2e0118dddf61",
+   "revision": 2,
+   "minApp": 1,
+   "title": "078",
+   "description": "Стопы на ширине таза, колени чуть согнуты, гантели перед бёдрами. Отводя таз назад, наклоняйтесь с прямой спиной. Гантели скользят вдоль ног до колен или до середины голени. Толкая таз вперёд, выпрямитесь. Спину не округляйте.",
+   "reps": 10,
+   "sets": 2,
+   "pauseSeconds": 15,
+   "repSeconds": 4.5,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_78_G_rumynskaya_tyaga.mp4",
+   "clipBytes": 969623,
+   "clipMd5": "9f2165b1f1d1ea0f68bcd09d8ad24bfb"
+  },
+  {
+   "uid": "3fce89dc-acfc-3b76-9bc6-eaddfd346963",
+   "revision": 2,
+   "minApp": 1,
+   "title": "079",
+   "description": "Наклонитесь вперёд с прямой спиной, одной рукой обопритесь на спинку стула. Другую руку с гантелью опустите вниз. Тяните гантель к поясу: локоть идёт вверх и назад вдоль тела, лопатка сводится к позвоночнику. Плавно опустите.",
+   "reps": 10,
+   "sets": 1,
+   "pauseSeconds": 15,
+   "repSeconds": 4,
+   "differentSides": false,
+   "differentLimbs": true,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_79_G_tyaga_odnoy_rukoy.mp4",
+   "clipBytes": 388867,
+   "clipMd5": "bef48ef6427b6db20821fe8fc9e7aa87"
+  },
+  {
+   "uid": "982e1395-a18a-33b7-85d6-4bbc249f1fdd",
+   "revision": 2,
+   "minApp": 1,
+   "title": "080",
+   "description": "Лягте на спину, колени согнуты, стопы на полу. Локти лежат на полу примерно под 45° к телу, гантели над локтями, ладони смотрят друг на друга. Выжмите гантели вверх над грудью до почти прямых рук. Плавно опускайте, пока локти не коснутся пола.",
+   "reps": 10,
+   "sets": 2,
+   "pauseSeconds": 15,
+   "repSeconds": 4,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_80_G_zhim_lezha_na_polu.mp4",
+   "clipBytes": 472900,
+   "clipMd5": "7172df71d6959524532a2fdebb46b374"
+  },
+  {
+   "uid": "1e987062-9264-33d2-a042-be531d1b50cf",
+   "revision": 2,
+   "minApp": 1,
+   "title": "081",
+   "description": "Сядьте на стул, спина прямая. Гантели у плеч, локти внизу и чуть в стороны. Выжмите гантели вверх до почти прямых рук, не прогибаясь в пояснице. Плавно опустите к плечам.",
+   "reps": 10,
+   "sets": 2,
+   "pauseSeconds": 15,
+   "repSeconds": 4,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_81_G_zhim_vverh_sidya.mp4",
+   "clipBytes": 520963,
+   "clipMd5": "43e3f48ce1544303801cee034b510b15"
+  },
+  {
+   "uid": "369bcff4-cea4-3bca-a682-abcdaf68295a",
+   "revision": 2,
+   "minApp": 1,
+   "title": "082",
+   "description": "Сидите прямо, руки с гантелями опущены по бокам. Слегка согнутые в локтях руки поднимите через стороны до уровня плеч, не выше, ладони смотрят вниз. Плавно опустите. Работает средняя часть плеча.",
+   "reps": 10,
+   "sets": 2,
+   "pauseSeconds": 15,
+   "repSeconds": 4,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_82_G_ruki_v_storony_sidya.mp4",
+   "clipBytes": 543534,
+   "clipMd5": "be94a7862031eb95e14dd8aa10da1638"
+  },
+  {
+   "uid": "70f21a8b-03e7-3472-b5bb-1ea6e7cb6aec",
+   "revision": 2,
+   "minApp": 1,
+   "title": "083",
+   "description": "Сидите прямо, руки опущены, ладони смотрят друг на друга. Сгибайте руки в локтях и поднимайте гантели к плечам. Локти прижаты к бокам, кисти не поворачиваются. Плавно разогните.",
+   "reps": 10,
+   "sets": 2,
+   "pauseSeconds": 15,
+   "repSeconds": 4,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_83_G_molotok_sidya.mp4",
+   "clipBytes": 379615,
+   "clipMd5": "43efedd6d09b1fa3d791e40427971b6b"
+  },
+  {
+   "uid": "a0d4551b-98a4-3f19-a77e-0d613675fd41",
+   "revision": 2,
+   "minApp": 1,
+   "title": "084",
+   "description": "Наклонитесь вперёд с прямой спиной, одна рука на спинке стула. Плечо рабочей руки прижато к боку и отведено назад, предплечье с гантелью висит вниз. Разогните руку в локте назад до прямой, плечо при этом неподвижно. Плавно верните.",
+   "reps": 10,
+   "sets": 2,
+   "pauseSeconds": 15,
+   "repSeconds": 4,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_84_G_razgibanie_ruki_nazad.mp4",
+   "clipBytes": 352472,
+   "clipMd5": "2fecb3c096199cffd6abf07ebbde4436"
+  },
+  {
+   "uid": "8d5e83c5-f5de-347a-beab-08945f7a25d1",
+   "revision": 2,
+   "minApp": 1,
+   "title": "085",
+   "description": "Лягте на спину, поясница прижата к полу. Гантели на прямых руках над грудью. Поднимите ноги, колени согнуты под прямым углом. Медленно опустите одну ногу вперёд, выпрямляя её почти до пола, и верните. Затем другую. Поясница не отрывается от пола.",
+   "reps": 10,
+   "sets": 2,
+   "pauseSeconds": 15,
+   "repSeconds": 4,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_85_G_mertvyy_zhuk.mp4",
+   "clipBytes": 490374,
+   "clipMd5": "633248fb4d14c3c390e9d143180f26a7"
+  },
+  {
+   "uid": "ab1af2fe-d591-3d3c-9119-2bb1c4a362fc",
+   "revision": 2,
+   "minApp": 1,
+   "title": "086",
+   "description": "Сидите прямо. Одна гантель в обеих руках за головой, локти смотрят вверх. Разогните руки и поднимите гантель над головой, плечи и локти не разводите. Плавно опустите за голову.",
+   "reps": 10,
+   "sets": 2,
+   "pauseSeconds": 15,
+   "repSeconds": 4,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_86_G_razgibanie_iz_za_golovy.mp4",
+   "clipBytes": 405455,
+   "clipMd5": "84f1fd7e6c77c211cfdb6c96bd09ea78"
+  },
+  {
+   "uid": "c78a9cb0-c037-3f2c-85dd-fe516b5a4980",
+   "revision": 2,
+   "minApp": 1,
+   "title": "087",
+   "description": "Сядьте на край стула, стопы чуть ближе к стулу, гантели у груди. Наклоните корпус вперёд с прямой спиной, «нос над носками». Встаньте без помощи рук и выпрямитесь полностью. Отводя таз назад, медленно сядьте.",
+   "reps": 10,
+   "sets": 2,
+   "pauseSeconds": 15,
+   "repSeconds": 6,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_87_G_podem_so_stula.mp4",
+   "clipBytes": 1292010,
+   "clipMd5": "f8e3cf7cc3e1d3e7dbffb1d8ee04eb20"
+  },
+  {
+   "uid": "23972167-f933-368d-aacd-53f2891dee86",
+   "revision": 2,
+   "minApp": 1,
+   "title": "088",
+   "description": "Сядьте на край стула и наклонитесь вперёд с прямой спиной, грудь над коленями. Гантели висят у голеней, ладони смотрят друг на друга. Слегка согнутые руки разведите в стороны до уровня спины, сводя лопатки. Плавно опустите. Работают задняя часть плеч и мышцы между лопатками, это упражнение на осанку.",
+   "reps": 10,
+   "sets": 2,
+   "pauseSeconds": 15,
+   "repSeconds": 4,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_88_G_razvedenie_v_naklone_sidya.mp4",
+   "clipBytes": 641023,
+   "clipMd5": "7ef3da3148668954d3b10bd8e5e8d065"
+  },
+  {
+   "uid": "d2ca8c3c-af20-34b5-bdad-572048723476",
+   "revision": 2,
+   "minApp": 1,
+   "title": "089",
+   "description": "Лягте на спину, колени согнуты. Одна гантель в обеих руках над грудью, руки почти прямые. Медленно опускайте гантель дугой за голову, пока руки не станут почти параллельны полу, и так же верните. Поясница прижата к полу.",
+   "reps": 10,
+   "sets": 2,
+   "pauseSeconds": 15,
+   "repSeconds": 5,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_89_G_pulover_lezha.mp4",
+   "clipBytes": 491571,
+   "clipMd5": "0c3d07c0dd281dbe265da8d30d382f27"
+  },
+  {
+   "uid": "7f87bcb0-64f6-34df-9287-c378259b5277",
+   "revision": 2,
+   "minApp": 1,
+   "title": "090",
+   "description": "Стоя прямо, плечи опущены. Положите ладонь плашмя на лоб. Давите лбом в ладонь, рукой не пускайте, голова остаётся на месте. Нажим 5 секунд, затем 3 секунды расслабиться. Работают мышцы передней поверхности шеи.",
+   "reps": 5,
+   "sets": 1,
+   "pauseSeconds": 0,
+   "repSeconds": 8,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_90_SH_izometriya_vpered.mp4",
+   "clipBytes": 312901,
+   "clipMd5": "ef961e94e8e11a3fab2abbe169c07423"
+  },
+  {
+   "uid": "5b5bda26-555a-370e-9dab-dcc816b0c906",
+   "revision": 2,
+   "minApp": 1,
+   "title": "091",
+   "description": "Стоя прямо. Пальцы сцеплены в замок, ладони плашмя на затылке, локти в стороны. Давите затылком назад в ладони, руки не пускают. Подбородок не задирайте. Нажим 5 секунд, затем расслабиться. Работают мышцы задней поверхности шеи.",
+   "reps": 5,
+   "sets": 1,
+   "pauseSeconds": 0,
+   "repSeconds": 8,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_91_SH_izometriya_nazad.mp4",
+   "clipBytes": 256282,
+   "clipMd5": "8ee4e6fe021e73ece2cf2bf2ec15df1c"
+  },
+  {
+   "uid": "ad0984a6-ded8-3170-9fd6-bd28c8924d50",
+   "revision": 2,
+   "minApp": 1,
+   "title": "092",
+   "description": "Стоя прямо, плечи опущены. Ладонь плашмя на ухе, пальцы вверх, локоть отведён в сторону. Голова давит в ладонь вбок, как будто ухо тянется к плечу, рука не пускает. Нажим 5 секунд, расслабиться. Затем другой рукой в другую сторону. Работают боковые мышцы шеи.",
+   "reps": 5,
+   "sets": 1,
+   "pauseSeconds": 0,
+   "repSeconds": 8,
+   "differentSides": true,
+   "differentLimbs": false,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_92_SH_izometriya_v_storony.mp4",
+   "clipBytes": 602405,
+   "clipMd5": "47a1a19bdcf4c274e7cd8c026c8a0c28"
+  },
+  {
+   "uid": "69f1d700-3152-3e74-96d1-fa23882c8280",
+   "revision": 2,
+   "minApp": 1,
+   "title": "093",
+   "description": "Стоя прямо. Ладонь плашмя на скуле сбоку лица. Голова пробует повернуться в сторону ладони, рука не пускает, голова не двигается. Нажим 5 секунд, расслабиться. Затем другой рукой в другую сторону.",
+   "reps": 5,
+   "sets": 1,
+   "pauseSeconds": 0,
+   "repSeconds": 8,
+   "differentSides": true,
+   "differentLimbs": false,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_93_SH_izometriya_na_povorot.mp4",
+   "clipBytes": 714806,
+   "clipMd5": "4b2b7bf13e0c2f9e1ce059ed1c9ea974"
+  },
+  {
+   "uid": "7a3810f4-65d0-3ff0-96a7-d15e78db7581",
+   "revision": 2,
+   "minApp": 1,
+   "title": "094",
+   "description": "Сидя на стуле прямо. Одна рука заходит под край сиденья и держится за него согнутыми пальцами, плечо опущено. Другая рука через голову ложится ладонью на противоположное ухо и мягко тянет голову ухом к своему плечу. Держать 20–30 секунд, спокойно дышать, плавно вернуть голову. Затем в другую сторону. Тянется боковая поверхность шеи со стороны руки, держащей стул.",
+   "reps": 2,
+   "sets": 1,
+   "pauseSeconds": 5,
+   "repSeconds": 25,
+   "differentSides": true,
+   "differentLimbs": false,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_94_SH_rastyazhka_trapecii.mp4",
+   "clipBytes": 965070,
+   "clipMd5": "f0955dd288469cd061dd8686cf7cfdc5"
+  },
+  {
+   "uid": "ed74b1ff-b415-3589-a57a-28c3a465fbea",
+   "revision": 2,
+   "minApp": 1,
+   "title": "095",
+   "description": "Сидя прямо, одна рука держится за край сиденья. Поверните голову примерно на 45° в сторону свободной руки и опустите её: нос к подмышке. Свободная рука лежит на затылке и мягко добавляет наклон. Держать 20–30 секунд, дышать, плавно вернуть голову. Затем в другую сторону. Тянется задне-боковая поверхность шеи со стороны руки на сиденье.",
+   "reps": 2,
+   "sets": 1,
+   "pauseSeconds": 10,
+   "repSeconds": 25,
+   "differentSides": true,
+   "differentLimbs": false,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_95_SH_rastyazhka_podnimayushchey_lopatku.mp4",
+   "clipBytes": 869091,
+   "clipMd5": "934b3fab1db7155edfd27ada31b09111"
+  },
+  {
+   "uid": "f84c1b47-f5ed-38c5-8eab-fd57e02bfc06",
+   "revision": 2,
+   "minApp": 1,
+   "title": "096",
+   "description": "Сидя прямо. Ладонь одной руки лежит поперёк груди и плашмя прижимает ключицу противоположной стороны, другая рука держится за сиденье. Наклоните голову в сторону от прижатой ключицы и слегка откиньте назад, подбородок чуть вверх. Держать 20–30 секунд, дышать, плавно вернуть голову. Затем в другую сторону. Тянется передне-боковая поверхность шеи над ключицей.",
+   "reps": 2,
+   "sets": 1,
+   "pauseSeconds": 10,
+   "repSeconds": 25,
+   "differentSides": true,
+   "differentLimbs": false,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_96_SH_rastyazhka_lestnichnyh.mp4",
+   "clipBytes": 805418,
+   "clipMd5": "f6f7e3f9bc25af532ec447400de5d7f3"
+  },
+  {
+   "uid": "2838c52b-89d1-3ab1-a829-d8d8cb5f82a3",
+   "revision": 2,
+   "minApp": 1,
+   "title": "097",
+   "description": "Сидя прямо. Пальцы сцеплены в замок на затылке, локти опущены вперёд. Медленно опустите подбородок к груди. Руки не давят, только их вес мягко добавляет наклон. Держать 20 секунд, дышать, плавно поднять голову. Тянется задняя поверхность шеи.",
+   "reps": 3,
+   "sets": 1,
+   "pauseSeconds": 5,
+   "repSeconds": 20,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_97_SH_rastyazhka_zadney_poverhnosti.mp4",
+   "clipBytes": 987130,
+   "clipMd5": "a701fcab4ae2b3b7c48a788918809bca"
+  },
+  {
+   "uid": "7dd2062e-a081-32a2-b1e6-5088ed325471",
+   "revision": 2,
+   "minApp": 1,
+   "title": "098",
+   "description": "Сделайте спокойный выдох, зажмите нос пальцами и засеките время. Отпустите при первом желании вдохнуть. После этого 10 секунд дышите спокойно, вдох не должен быть жадным. Результат — в секундах. Её делают в начале и в конце занятия и записывают в дневник.\nОриентиры, которые обычно приводят:\n\nменьше 10 секунд — плохо;\n10–20 секунд — ниже нормы;\n20–40 секунд — норма;\nбольше 40 секунд — хорошо.",
+   "reps": 1,
+   "sets": 1,
+   "pauseSeconds": 0,
+   "repSeconds": 60,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_98_BT_kontrolnaya_pauza.mp4",
+   "clipBytes": 148478,
+   "clipMd5": "d4f2beca5579cc870c1c439c3ccdc932"
+  },
+  {
+   "uid": "9214f7bc-8991-37cd-bc94-b5b582606188",
+   "revision": 2,
+   "minApp": 1,
+   "title": "099",
+   "description": "Расслабьте живот и грудь. Вдыхайте чуть меньше, чем хочется, — так, чтобы всё время держалась лёгкая, комфортная нехватка воздуха. Вдох короткий и тихий, выдох спокойный. Это главное упражнение метода. Между подходами 1 минута обычного дыхания.",
+   "reps": 1,
+   "sets": 3,
+   "pauseSeconds": 60,
+   "repSeconds": 180,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_99_BT_umenshennoe_dyhanie.mp4",
+   "clipBytes": 145866,
+   "clipMd5": "431506e3f7beb444e1231f9b4b8ebb41"
+  },
+  {
+   "uid": "1e02b7c0-a59c-364f-83db-91a537c1976e",
+   "revision": 2,
+   "minApp": 1,
+   "title": "100",
+   "description": "Вдох 5 секунд, выдох 5 секунд, пауза 5 секунд. Грудь при вдохе поднимается лишь немного, живот неподвижен.",
+   "reps": 10,
+   "sets": 1,
+   "pauseSeconds": 0,
+   "repSeconds": 15,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_100_BT_verhnie_otdely.mp4",
+   "clipBytes": 740122,
+   "clipMd5": "cbc128289ebec89057d9c778a234de05"
+  },
+  {
+   "uid": "50912894-c76d-303e-8024-07988cb6d576",
+   "revision": 2,
+   "minApp": 1,
+   "title": "101",
+   "description": "Вдох 7,5 секунды: сначала поднимается живот (диафрагма), затем грудь. Выдох 7,5 секунды сверху вниз: сначала опускается грудь, затем живот. Пауза 5 секунд.",
+   "reps": 10,
+   "sets": 1,
+   "pauseSeconds": 0,
+   "repSeconds": 20,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_101_BT_grud_i_zhivot.mp4",
+   "clipBytes": 955110,
+   "clipMd5": "4ed475d1354eb49884e02155824f9e03"
+  },
+  {
+   "uid": "006308f4-9ecc-38ed-9587-f3c481c584d5",
+   "revision": 2,
+   "minApp": 1,
+   "title": "102",
+   "description": "То же, что упражнение 4, но живот втянут весь цикл, работает только грудь.\nвдох 7.5 секунды выдох 7.5 секунды держим 5 секунд",
+   "reps": 10,
+   "sets": 1,
+   "pauseSeconds": 0,
+   "repSeconds": 20,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_102_BT_vtyanutyy_zhivot.mp4",
+   "clipBytes": 939175,
+   "clipMd5": "c4722e6c10ed913e6e709f1a5b02693b"
+  },
+  {
+   "uid": "e2d1d5f0-4dc6-3fe5-a94e-1454c96a9af2",
+   "revision": 2,
+   "minApp": 1,
+   "title": "103",
+   "description": "Прижмите пальцем левую ноздрю и дышите правой половиной носа. Затем 10 раз дышите левой половиной.\nвдох 3 секунды выдох 3 секунды",
+   "reps": 10,
+   "sets": 1,
+   "pauseSeconds": 0,
+   "repSeconds": 6,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_103_BT_razdelnoe_dyhanie.mp4",
+   "clipBytes": 149060,
+   "clipMd5": "bf072629892cb5af3dcd194622fdd31c"
+  },
+  {
+   "uid": "487bb221-ef83-3925-805c-6a2ed637f76b",
+   "revision": 2,
+   "minApp": 1,
+   "title": "104",
+   "description": "Спокойный выдох, зажмите нос и задержите дыхание. На задержке плавно кивайте головой, пока не появится умеренная нехватка воздуха. Затем отпустите нос и спокойно вдохните носом.",
+   "reps": 3,
+   "sets": 1,
+   "pauseSeconds": 30,
+   "repSeconds": 30,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_104_BT_prochistka_nosa.mp4",
+   "clipBytes": 153101,
+   "clipMd5": "55ee15e4a3d3e536ebbfc9d0e669cb5a"
+  },
+  {
+   "uid": "d9b2201f-7fe7-371b-89e5-31854f9c63d4",
+   "revision": 2,
+   "minApp": 1,
+   "title": "105",
+   "description": "Спокойный выдох, зажмите нос и идите обычным шагом, считая шаги. Как только станет умеренно не хватать воздуха, остановитесь и вдохните носом. Затем минуту дышите спокойно. Число шагов со временем растёт.",
+   "reps": 3,
+   "sets": 1,
+   "pauseSeconds": 60,
+   "repSeconds": 40,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_105_BT_shagi_na_zaderzhke.mp4",
+   "clipBytes": 146253,
+   "clipMd5": "e334e5db616dd7a747c0bb1de16fe748"
+  },
+  {
+   "uid": "2029b0a6-8e29-373f-95df-3cc446e9dddb",
+   "revision": 2,
+   "minApp": 1,
+   "title": "106",
+   "description": "Контрольная пауза (повторный замер)\nКак упражнение 1. Сравните с началом занятия.",
+   "reps": 1,
+   "sets": 1,
+   "pauseSeconds": 0,
+   "repSeconds": 60,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_106_BT_kontrolnaya_pauza_zamer.mp4",
+   "clipBytes": 148228,
+   "clipMd5": "3a84c2e751de58c39c08a27bbfd22437"
+  },
+  {
+   "uid": "49985622-da7a-32db-8c0e-d4d7e0638611",
+   "revision": 2,
+   "minApp": 1,
+   "title": "107",
+   "description": "Стоя прямо, руки опущены. Левую прямую руку ведите поперёк груди вправо, параллельно полу, и одновременно отведите левую ногу назад-вправо за опорную, до упора, носком на пол. Вернитесь в исходное положение. Затем то же правой рукой и правой ногой в левую сторону. Следующие два движения такие же, только рука идёт вверх под 45°. Один повтор — все четыре движения. Корпус ровный, движения плавные.",
+   "reps": 10,
+   "sets": 1,
+   "pauseSeconds": 0,
+   "repSeconds": 5,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_107_ruka_poperek_noga_nakrest.mp4",
+   "clipBytes": 889112,
+   "clipMd5": "0c28b2d5a4d43bb9cf47ee23d527c559"
+  },
+  {
+   "uid": "6f3d5d8a-cbf3-3d00-9a64-86c1c9533dd0",
+   "revision": 2,
+   "minApp": 1,
+   "title": "108",
+   "description": "Стоя прямо, прямые руки перед собой на уровне груди, пальцы сцеплены в замок. Поверните туловище влево: таз остаётся смотреть вперёд, руки поворачиваются вместе с корпусом. Одновременно поднимите согнутое левое колено вперёд, бедро параллельно полу, носок вниз. Вернитесь в исходное положение. Повторите в другую сторону",
+   "reps": 10,
+   "sets": 1,
+   "pauseSeconds": 0,
+   "repSeconds": 2,
+   "differentSides": true,
+   "differentLimbs": false,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_108_povorot_korpusa_noga_vpered.mp4",
+   "clipBytes": 814550,
+   "clipMd5": "1f2ac0d59e92251ee067e6d02d492cc5"
+  },
+  {
+   "uid": "74b75924-2978-3edc-9bf7-131beb09b43e",
+   "revision": 2,
+   "minApp": 1,
+   "title": "109",
+   "description": "Сядьте на коврик. Одну ногу выпрямите в сторону и вперёд, колено прямое, носок вверх. Другую ногу согните, колено положите на пол в сторону, стопу прижмите к прямой ноге. Руку со стороны согнутой ноги через сторону поднимите вверх и вытяните над головой к прямой ноге, наклоняя корпус и голову к прямой ноге. Другую руку  прижмите тыльной стороной кисти к согнутому колену. Задержитесь на 30 секунд, глубоко и спокойно дыша, затем плавно вернитесь. Поменяйте ноги и повторите в другую сторону. Тянитесь мягко, без рывков и боли.",
+   "reps": 1,
+   "sets": 1,
+   "pauseSeconds": 0,
+   "repSeconds": 36,
+   "differentSides": true,
+   "differentLimbs": false,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_109_bokovoy_naklon_sidya.mp4",
+   "clipBytes": 1121013,
+   "clipMd5": "a87379d6dc070fa46961f514b2907fe7"
+  },
+  {
+   "uid": "deb5f309-e02b-3cac-a11a-f16b6862ae4a",
+   "revision": 2,
+   "minApp": 1,
+   "title": "110",
+   "description": "Встаньте на четвереньки: ладони на полу чуть впереди плеч, руки прямые, колени под тазом, стопы на подогнутых пальцах, взгляд в пол. Резинку перекиньте через поясницу, концы прижмите ладонями к полу. Поднимите поясницу максимально вверх, округляя её горбом против резинки, голова опускается. Затем плавно опустите поясницу вниз до прогиба, грудь и голова чуть поднимаются. Колени, ладони и лопатки остаются на месте, работает поясница. Двигайтесь медленно, без рывков.",
+   "reps": 10,
+   "sets": 1,
+   "pauseSeconds": 0,
+   "repSeconds": 4,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_110_podem_taza_na_chetverenkah_s_rezinkoy.mp4",
+   "clipBytes": 601577,
+   "clipMd5": "4b22a10be5e6a3942ded916f85f54423"
+  },
+  {
+   "uid": "a823339d-7297-30b1-a944-2e354f8beedd",
+   "revision": 2,
+   "minApp": 1,
+   "title": "111",
+   "description": "Встаньте на четвереньки: ладони на полу чуть впереди плеч, руки прямые, колени под тазом, стопы на подогнутых пальцах, взгляд в пол. Оторвите одно колено от пола и, не разгибая ногу, опишите им большой круг. Колено уходит назад-вверх, бедро горизонтально, стопа к потолку. Затем колено разворачивается в сторону на уровне таза, голень назад. Потом колено идёт вперёд к груди и опускается к полу, не касаясь его, и сразу начинается следующий круг. Выполните все круги одной ногой, затем другой. Таз и плечи на месте, спина ровная, движение плавное, без рывков.",
+   "reps": 10,
+   "sets": 1,
+   "pauseSeconds": 0,
+   "repSeconds": 6,
+   "differentSides": false,
+   "differentLimbs": true,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_111_krug_nogoy_na_chetverenkah.mp4",
+   "clipBytes": 1120364,
+   "clipMd5": "f7dfffee17784342276af2e0978bd646"
+  },
+  {
+   "uid": "48aee311-0924-35a7-8aff-012382d72156",
+   "revision": 2,
+   "minApp": 1,
+   "title": "112",
+   "description": "Встаньте широко, стопы развёрнуты наружу, и опуститесь в присед: колени разведены в стороны по линии стоп, таз чуть выше колен. Ладони положите на бёдра у их основания, пальцы смотрят наружу к коленям, большой палец к паху. Руки и спина прямые. Поверните линию плеч примерно на 45°: одно плечо уходит вперёд, другое назад. Плечи остаются на одной высоте, голова поворачивается вместе с ними. Вернитесь в центр и повернитесь в другую сторону. Таз и колени на месте, ладони не отрываются от бёдер, движение плавное.",
+   "reps": 16,
+   "sets": 1,
+   "pauseSeconds": 0,
+   "repSeconds": 4,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_112_skruchivanie_v_shirokom_prisede.mp4",
+   "clipBytes": 720599,
+   "clipMd5": "ee5db218df2fcaaf2bd5d468c24930df"
+  },
+  {
+   "uid": "17a5fe42-1409-3f29-b90f-a93f73b7e44e",
+   "revision": 2,
+   "minApp": 1,
+   "title": "113",
+   "description": "Встаньте прямо, ноги на ширине плеч. Руки перед грудью, ладони прижаты друг к другу, пальцы вверх, локти разведены. Сильно надавите ладонями друг на друга и, не ослабляя нажима, медленно поверните голову в одну сторону, задержитесь и вернитесь в центр, затем так же в другую сторону. Корпус и плечи неподвижны, поворачивается только голова. Дышите ровно, не задерживайте дыхание. В конце ослабьте нажим.",
+   "reps": 3,
+   "sets": 1,
+   "pauseSeconds": 0,
+   "repSeconds": 17,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [
+    "Шея"
+   ],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [
+    {
+     "bodyPart": "Шея",
+     "note": null
+    }
+   ],
+   "clip": "klip_113_povoroty_golovy_s_nazhimom_ladoney.mp4",
+   "clipBytes": 335547,
+   "clipMd5": "51d746362d673d6037cf0b1791e674e8"
+  },
+  {
+   "uid": "efdab9aa-437f-33a6-a833-2dc404587ab4",
+   "revision": 2,
+   "minApp": 1,
+   "title": "114",
+   "description": "Встаньте прямо, ноги на ширине плеч. Перед грудью сцепите кисти хватом «крючками»: пальцы обеих рук согнуты и зацеплены друг за друга, локти разведены, предплечья горизонтально. Сильно потяните руки в стороны, как будто хотите разорвать хват, и, не ослабляя усилия, медленно поверните голову в одну сторону, задержитесь и вернитесь в центр, затем так же в другую сторону. Корпус и плечи неподвижны, поворачивается только голова. Дышите ровно, не задерживайте дыхание. В конце ослабьте усилие.",
+   "reps": 3,
+   "sets": 1,
+   "pauseSeconds": 0,
+   "repSeconds": 17,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [
+    "Шея"
+   ],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [
+    {
+     "bodyPart": "Шея",
+     "note": null
+    }
+   ],
+   "clip": "klip_114_povoroty_golovy_s_razryvom_zamka.mp4",
+   "clipBytes": 337723,
+   "clipMd5": "a2e6889a516cc1587ef84ee4a290c174"
+  },
+  {
+   "uid": "ca7b765b-c7df-3fb1-bb83-a90c69b7782e",
+   "revision": 2,
+   "minApp": 1,
+   "title": "115",
+   "description": "Лягте на спину, колени согнуты, стопы на полу на ширине таза, руки вдоль тела. Напрягите пресс и ягодицы и подкрутите таз назад, поясница плотно прижимается к полу. Задержитесь на 5 секунд, затем расслабьтесь: поясница возвращается в естественный небольшой прогиб. Таз от пола не отрывается, дыхание ровное.",
+   "reps": 10,
+   "sets": 1,
+   "pauseSeconds": 0,
+   "repSeconds": 7,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_115_naklony_taza_lezha.mp4",
+   "clipBytes": 245360,
+   "clipMd5": "38f12e74b2b0ef562efdecb3a13b29ef"
+  },
+  {
+   "uid": "a35f6f07-d922-3583-ad46-f67ae5ff28ae",
+   "revision": 2,
+   "minApp": 1,
+   "title": "116",
+   "description": "Встаньте на четвереньки: ладони под плечами, колени под тазом, взгляд в пол. На выдохе округлите спину вверх, опустите голову и подкрутите таз. На вдохе плавно прогните поясницу вниз, поднимите грудь и взгляд вперёд. Двигайтесь медленно, без рывков и без боли, руки прямые.",
+   "reps": 8,
+   "sets": 1,
+   "pauseSeconds": 0,
+   "repSeconds": 5,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [],
+   "clip": "klip_116_koshka_verblyud.mp4",
+   "clipBytes": 450296,
+   "clipMd5": "8b811a52fea471723e7c95c6a5391991"
+  },
+  {
+   "uid": "91a04b40-0bab-3313-8a47-a53e768f00c5",
+   "revision": 2,
+   "minApp": 1,
+   "title": "117",
+   "description": "Лягте на бок, голова на нижней руке, верхняя рука на тазу. Согните ноги: бёдра вперёд примерно на 45°, колени под прямым углом, стопы вместе одна на другой. Не разъединяя стоп и не заваливая таз назад, поднимите верхнее колено вверх, задержитесь на секунду и медленно опустите. Работает ягодица сбоку. Затем повторите на другом боку.",
+   "reps": 12,
+   "sets": 1,
+   "pauseSeconds": 0,
+   "repSeconds": 3,
+   "differentSides": true,
+   "differentLimbs": false,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [
+    {
+     "bodyPart": "Поясница",
+     "note": null
+    }
+   ],
+   "clip": "klip_117_rakushka_lezha_na_boku.mp4",
+   "clipBytes": 258927,
+   "clipMd5": "ebdc48b55ee7e8aff17a71669e9cc725"
+  },
+  {
+   "uid": "8a1b50ad-5cd0-3c76-bd45-afa2f441e2df",
+   "revision": 2,
+   "minApp": 1,
+   "title": "118",
+   "description": "Встаньте в планку на предплечья: локти под плечами, стопы на носках, тело прямое от затылка до пяток, взгляд в пол. Подкрутите таз назад, копчик к пяткам, напрягите пресс и ягодицы и держите 5–20 секунд: поясница не провисает, таз не поднимается вверх. Расслабьте таз, не опуская тела, и повторите. Дышите ровно.",
+   "reps": 3,
+   "sets": 1,
+   "pauseSeconds": 0,
+   "repSeconds": 10,
+   "differentSides": false,
+   "differentLimbs": false,
+   "muscleGroups": [],
+   "ageCategories": [],
+   "timesOfDay": [],
+   "pain": [
+    {
+     "bodyPart": "Поясница",
+     "note": null
+    }
+   ],
+   "clip": "klip_118_planka_s_podkruchennym_tazom.mp4",
+   "clipBytes": 246887,
+   "clipMd5": "e936c7e06249039202a665394a0270e8"
+  }
+ ],
+ "workouts": [
+  {
+   "uid": "85c7fd59-9b13-38a9-bd6b-6807bced3226",
+   "revision": 1,
+   "minApp": 1,
+   "title": "Дыхательная гимнастика по методу Бутейко",
+   "description": "",
+   "items": [
+    {
+     "exercise": "7dd2062e-a081-32a2-b1e6-5088ed325471",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "9214f7bc-8991-37cd-bc94-b5b582606188",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "1e02b7c0-a59c-364f-83db-91a537c1976e",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "50912894-c76d-303e-8024-07988cb6d576",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "006308f4-9ecc-38ed-9587-f3c481c584d5",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "e2d1d5f0-4dc6-3fe5-a94e-1454c96a9af2",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "487bb221-ef83-3925-805c-6a2ed637f76b",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "d9b2201f-7fe7-371b-89e5-31854f9c63d4",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "2029b0a6-8e29-373f-95df-3cc446e9dddb",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    }
+   ]
+  },
+  {
+   "uid": "26076df2-b360-3288-85ff-c8f5d1662610",
+   "revision": 1,
+   "minApp": 1,
+   "title": "Комплекс коррекции переднего наклона таза.",
+   "description": "При переднем наклоне таза верх таза уходит вперёд, поясница прогибается сильнее обычного. Обычно это сочетание :\n•\tнапряжены и укорочены: сгибатели бедра (подвздошно-поясничная, прямая мышца бедра), разгибатели поясницы, часто икры и грушевидная;\n•\tослаблены: ягодичные (большая и средняя), мышцы пресса, задняя поверхность бедра работает «неправильно».\nПорядок в комплексе:\n1.\tПодготовка — подвижность таза и поясницы, учимся чувствовать наклон таза.\n2.\tРастяжка укороченных мышц.\n3.\tАктивация ослабленных мышц лёгкими, точными движениями.\n4.\tУкрепление — те же мышцы с нагрузкой.\n5.\tВключение в движение — ровный таз в приседе и наклоне. \nКак заниматься\n•\tЧастота: 3–5 раз в неделю.\n•\tГлавное правило во всех упражнениях — держать таз ровным: живот подтянут, ягодицы напряжены, поясница не прогибается.\n•\tВ течение дня: меньше сидеть подряд, каждые 30–40 минут вставать и подкручивать таз стоя на 5–10 секунд.",
+   "items": [
+    {
+     "exercise": "ca7b765b-c7df-3fb1-bb83-a90c69b7782e",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "a35f6f07-d922-3583-ad46-f67ae5ff28ae",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "85292feb-1161-3b44-ab21-bc3ad3432bcb",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "b352bf11-7ee8-3f03-a8e5-0708d208f708",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "c0eadea2-ae12-38e8-a3a1-34a03d5283cf",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "e49e1d1f-87e6-3837-888f-d024002d2a11",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "666b66e7-9bf6-34eb-b5b3-fe35b788022e",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "56de80c6-f95e-34cd-a692-1e956addfb75",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "91a04b40-0bab-3313-8a47-a53e768f00c5",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "8d5e83c5-f5de-347a-beab-08945f7a25d1",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "53b7966c-b2ee-3f61-9eba-c761133d286f",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "d686b4c8-bbee-38bd-a733-c03efe212110",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "02531573-44f3-3fa6-ad91-b907af0ca4d6",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "c2b1b2d8-63e7-3ffb-b133-e3ca39c861bd",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "8a1b50ad-5cd0-3c76-bd45-afa2f441e2df",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "b72d3a45-aef5-36c3-83b6-2d2d667a1045",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "23433981-33eb-32a2-967b-2e0118dddf61",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "b352bf11-7ee8-3f03-a8e5-0708d208f708",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    }
+   ]
+  },
+  {
+   "uid": "1963ff73-1819-30b8-8176-10185a17a000",
+   "revision": 1,
+   "minApp": 1,
+   "title": "Комплекс против остеохондроза позвоночника",
+   "description": "",
+   "items": [
+    {
+     "exercise": "30c9fa5f-9906-3963-8c18-307f27c83c75",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "d7f6822d-c5b0-3928-97d7-1780e4785517",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "eb5c8b70-888d-3aff-9b43-457da269ff47",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "ed822140-ec94-3768-9844-77a5a2ac0c78",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "3ce79cd2-f1f8-318e-b47b-578e04899762",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "afe5e3dd-14db-341a-8199-f0d60bbaadb1",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "16490f5e-c268-31bd-99fb-76f08914d5b0",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "1529d041-1311-3cfe-ad5b-717a0d71e385",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "4dce90a9-e317-3231-821d-2ac81308f055",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "7ad9bffd-e8a7-362c-a47a-ece199a75a5d",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "fb59ea69-4130-3baa-9c14-f07ed7ca0f12",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "4b569060-c695-3c74-a1eb-83453b71ffd8",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "60cfb8b6-d5c0-329e-98b4-1f9f6262a2dc",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "ca4e3239-ff04-3ae2-86ad-ff23cc1635d4",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "28f980d0-485b-3a57-9473-3de9dc08f003",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "cf9f561b-4df9-37e8-a18b-9d18282ab7d6",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "6763b5f6-84be-35d0-af31-d2f09ac33056",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "ca249a26-f1e4-3c38-9837-dcd7ae93c300",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "9e629dda-df5a-34ea-9aa3-1c13c06609b4",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "8cdb9f27-0ae5-31f8-ad14-a9007d4fbb41",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "7bdbe6a8-ae1a-349a-8788-7075ab992be0",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "04eccc69-145c-325d-a65d-f9c36b71657a",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "aaad5d11-73bd-3de5-b08a-a13b08d35d6d",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "54ddd029-13cb-3e01-9cfd-4384281e26e9",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "52ddb674-e500-3f64-9c8c-46015c78829a",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "998c11f9-5f3b-3f9e-8e11-de56ad633a5f",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "b15d5bb3-e07b-30d5-96d0-71763663f2c8",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    }
+   ]
+  },
+  {
+   "uid": "918b0187-18df-316f-8335-c370fc7f4bc0",
+   "revision": 1,
+   "minApp": 1,
+   "title": "Против болей в коленях",
+   "description": "",
+   "items": [
+    {
+     "exercise": "c0eadea2-ae12-38e8-a3a1-34a03d5283cf",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "666b66e7-9bf6-34eb-b5b3-fe35b788022e",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "b72d3a45-aef5-36c3-83b6-2d2d667a1045",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "c2b1b2d8-63e7-3ffb-b133-e3ca39c861bd",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "46a91450-6311-35f1-beeb-6618753e1293",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "c0e65467-d739-319b-8743-943de7201481",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    }
+   ]
+  },
+  {
+   "uid": "84dc4714-ddc6-321d-9c37-f0bde79e5173",
+   "revision": 1,
+   "minApp": 1,
+   "title": "Разблокировка поясницы",
+   "description": "",
+   "items": [
+    {
+     "exercise": "85292feb-1161-3b44-ab21-bc3ad3432bcb",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "4f788fb0-8d03-329f-b5e2-9eb7b846f784",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "1cc76124-1a97-300b-b0f3-fb966d9e8f65",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "02531573-44f3-3fa6-ad91-b907af0ca4d6",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "6f3d5d8a-cbf3-3d00-9a64-86c1c9533dd0",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "74b75924-2978-3edc-9bf7-131beb09b43e",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "deb5f309-e02b-3cac-a11a-f16b6862ae4a",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "a823339d-7297-30b1-a944-2e354f8beedd",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "48aee311-0924-35a7-8aff-012382d72156",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    }
+   ]
+  },
+  {
+   "uid": "3ed8a4c4-806f-3572-9dd9-7ae3806bac38",
+   "revision": 1,
+   "minApp": 1,
+   "title": "Силовой с гантелями",
+   "description": "",
+   "items": [
+    {
+     "exercise": "a040698e-c966-3970-a543-ddbad5a7652d",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "667e9b28-f678-390d-9278-2e6c28a235bf",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "94ea3261-2646-3468-84f5-4c909fce4a00",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "23433981-33eb-32a2-967b-2e0118dddf61",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "3fce89dc-acfc-3b76-9bc6-eaddfd346963",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "a0d4551b-98a4-3f19-a77e-0d613675fd41",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "1e987062-9264-33d2-a042-be531d1b50cf",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "369bcff4-cea4-3bca-a682-abcdaf68295a",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "70f21a8b-03e7-3472-b5bb-1ea6e7cb6aec",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "ab1af2fe-d591-3d3c-9119-2bb1c4a362fc",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "c78a9cb0-c037-3f2c-85dd-fe516b5a4980",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "23972167-f933-368d-aacd-53f2891dee86",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "982e1395-a18a-33b7-85d6-4bbc249f1fdd",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "8d5e83c5-f5de-347a-beab-08945f7a25d1",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "d2ca8c3c-af20-34b5-bdad-572048723476",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    }
+   ]
+  },
+  {
+   "uid": "9b7614bf-608f-3b4f-b2d2-eab57a0163c6",
+   "revision": 1,
+   "minApp": 1,
+   "title": "Упражнения для шеи #1",
+   "description": "Все упражнения делаются мягко, без сильного напряжения, в умеренном темпе. Не допускайте болевых ощущений.",
+   "items": [
+    {
+     "exercise": "641459b0-6640-3199-9592-bed12740b797",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "92ae6611-fc7b-3f8f-97b6-37206f4c5e50",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "d7923b50-22f6-30b4-8f95-5ec3eca31b14",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "0cbd54ca-43a3-371f-9327-7defde4fb464",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "8302e803-4980-3359-86cc-eff104c388e0",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "9c167b33-1459-3354-9725-2fed428d6c5f",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "295f96be-5c90-3d9a-b255-9b25c01a40ab",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "bb16ec90-6bb8-3b0b-9fd6-eb8763c39189",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "2b673abe-924d-3263-b337-3ba12b269855",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "1055c789-aa08-3bae-aec4-aeb2d698d5b1",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    }
+   ]
+  },
+  {
+   "uid": "6d44a8a1-e3ce-3857-bca3-b956ff2397a2",
+   "revision": 1,
+   "minApp": 1,
+   "title": "Упражнения для шеи #2. Изометрия и растяжка.",
+   "description": "Все упражнения делаются мягко, без сильного напряжения, в умеренном темпе. Не допускайте болевых ощущений.",
+   "items": [
+    {
+     "exercise": "7f87bcb0-64f6-34df-9287-c378259b5277",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "5b5bda26-555a-370e-9dab-dcc816b0c906",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "ad0984a6-ded8-3170-9fd6-bd28c8924d50",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "69f1d700-3152-3e74-96d1-fa23882c8280",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "7a3810f4-65d0-3ff0-96a7-d15e78db7581",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "ed74b1ff-b415-3589-a57a-28c3a465fbea",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "f84c1b47-f5ed-38c5-8eab-fd57e02bfc06",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "2838c52b-89d1-3ab1-a829-d8d8cb5f82a3",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "17a5fe42-1409-3f29-b90f-a93f73b7e44e",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "efdab9aa-437f-33a6-a833-2dc404587ab4",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    }
+   ]
+  },
+  {
+   "uid": "b0a87026-5f97-322f-aed1-70ee54dbc1b6",
+   "revision": 1,
+   "minApp": 1,
+   "title": "Утренний. Пробуждение",
+   "description": "",
+   "items": [
+    {
+     "exercise": "727ee83f-0bbb-3acb-913e-a4f133404998",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "c6cda701-0a53-3479-8b5d-6415d69a6023",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "6d5f1cdd-33f7-302f-91ea-ed3fdad856a5",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "7fc5a766-b191-38e0-931d-680a35d8b811",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "51ef198e-23b8-37d5-8b64-9f4e2ce360f0",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "5a841389-4dc9-3104-b5f9-4c4cc6da1ee3",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "f527a978-f77a-3c5b-8968-6d1923617883",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    },
+    {
+     "exercise": "49985622-da7a-32db-8c0e-d4d7e0638611",
+     "reps": null,
+     "sets": null,
+     "pauseSeconds": null
+    }
+   ]
+  }
+ ]
+}
